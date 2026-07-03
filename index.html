@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="format-detection" content="telephone=no, date=no, address=no, email=no">
 <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
@@ -23,11 +23,13 @@
     --cream:#efe6ea; --ink:#f8f4f5; --mut:#c6b3bb;
   }
   *{margin:0;padding:0;box-sizing:border-box}
+  *{min-width:0;min-height:0}
+  img{max-width:100%;height:auto}
   html{scroll-behavior:smooth}
   body{font-family:'Satoshi',sans-serif;background:var(--mokko);color:var(--ink);-webkit-font-smoothing:antialiased;overflow-x:hidden}
   body.navlock{overflow:hidden}
   a{color:inherit}
-  h1,h2,h3{font-family:'Zodiak',serif;font-weight:600;letter-spacing:-.02em}
+  h1,h2,h3{font-family:'Zodiak',serif;font-weight:600;letter-spacing:-.02em;overflow-wrap:break-word;word-break:break-word}
   section{position:relative}
   .wrap{max-width:1180px;margin:0 auto;padding:0 clamp(20px,5vw,64px)}
   .eyebrow{display:inline-flex;align-items:center;gap:10px;font-size:.8rem;letter-spacing:.24em;text-transform:uppercase;color:var(--rose);margin-bottom:20px;font-family:'Satoshi',sans-serif;font-weight:500}
@@ -119,7 +121,7 @@
   #reviews{background:
     radial-gradient(70% 60% at 85% 10%,rgba(217,167,184,.10),transparent 60%),
     var(--mokko)}
-  .rev-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin-top:44px}
+  .rev-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));gap:18px;margin-top:44px}
   .rev{border:1px solid rgba(230,205,214,.14);border-radius:20px;padding:30px 28px;background:linear-gradient(160deg,rgba(92,70,60,.2),rgba(36,26,22,.4))}
   .rev .stars{color:var(--rose);letter-spacing:3px;margin-bottom:14px;font-size:1.05rem}
   .rev p{color:#e6d8cf;line-height:1.6;font-size:1.02rem}
