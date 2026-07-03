@@ -1,0 +1,4894 @@
+[{
+  "id": "4504127909079873",
+  "objectType": "branch",
+  "title": "Лотос, салон красоты",
+  "shortName": "Лотос",
+  "extension": "салон красоты",
+  "url": "https://2gis.ru/zhukovskiy/firm/4504127909079873",
+  "rubrics": [
+    "Парикмахерские",
+    "Ногтевые студии",
+    "Косметолог",
+    "Оформление бровей и ресниц",
+    "Визажисты",
+    "Эпиляция",
+    "Студии загара",
+    "Перманентный макияж"
+  ],
+  "category": "beauty",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "ratingCount": 1,
+  "summary": null,
+  "description": null,
+  "postcode": "140180",
+  "addressComment": "2 этаж",
+  "country": "Россия",
+  "region": "Московская область",
+  "city": "Жуковский",
+  "district": null,
+  "living_area": "Колонец м-н",
+  "street": "улица Гагарина",
+  "houseNumber": "33а",
+  "address": "улица Гагарина, 33а",
+  "badges": null,
+  "createdAt": null,
+  "updatedAt": "2025-10-29T11:07:31Z",
+  "timezoneOffset": 180,
+  "mainPhotoUrl": "https://i0.photo.2gis.com/main/branch/32/4504127909079873/common",
+  "location": {
+    "lat": 55.605814,
+    "lng": 38.099039
+  },
+  "working_hours": {
+    "Fri": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Mon": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Sat": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Sun": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Thu": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Tue": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Wed": {
+      "from": "10:00",
+      "to": "21:00"
+    }
+  },
+  "scheduleSpecial": null,
+  "nearestStations": [
+    {
+      "name": "Ильинская",
+      "distance": 1700,
+      "comment": "D3 Ленинградско-Казанский диаметр"
+    }
+  ],
+  "attributeGroups": [
+    "Инъекционные процедуры",
+    "Удаление новообразований",
+    "Жен.стрижка от 800 ₽",
+    "Муж.стрижка от 500 ₽",
+    "Наращивание волос",
+    "Женская химзавивка",
+    "Сложное окрашивание",
+    "Ботокс волос",
+    "Полировка волос",
+    "Свадебные и вечерние причёски",
+    "Нанопластика волос",
+    "Прикорневой объём волос",
+    "Женский педикюр",
+    "Наращивание гелем",
+    "Мужской маникюр",
+    "Детский маникюр",
+    "Японский маникюр",
+    "Гель-лак",
+    "Аппаратный маникюр",
+    "Парафиновые ванночки",
+    "Мужской педикюр",
+    "Массаж лица",
+    "Наращивание ресниц",
+    "Ламинирование ресниц",
+    "Окрашивание ресниц",
+    "Коррекция бровей",
+    "Окрашивание бровей",
+    "Ламинирование бровей",
+    "Автозагар",
+    "Лазерная эпиляция",
+    "Шугаринг",
+    "Восковая эпиляция",
+    "Оплата картой",
+    "Наличный расчёт",
+    "Перевод с карты"
+  ],
+  "brand": {
+    "name": "Лотос, салон красоты",
+    "shortName": "Лотос",
+    "extension": "салон красоты",
+    "branchCount": 1,
+    "rating": {
+      "score": 5,
+      "reviews": 1
+    }
+  },
+  "phoneText": [
+    "+7‒926‒416‒00‒36"
+  ],
+  "phoneValue": [
+    "+79264160036"
+  ],
+  "email": null,
+  "website": null,
+  "socials": {
+    "telegram": [
+      "https://t.me/+79264160036"
+    ],
+    "whatsapp": [
+      "https://wa.me/79264160036"
+    ]
+  },
+  "reviewsMeta": {
+    "branchId": "4504127909079873",
+    "branchRating": 5,
+    "branchReviewsCount": 1,
+    "totalCount": 1,
+    "ratedCount": 1,
+    "unratedCount": 0,
+    "fetchedCount": 1,
+    "providers": [
+      {
+        "tag": "flamp",
+        "isReviewable": true
+      },
+      {
+        "tag": "2gis",
+        "isReviewable": true
+      },
+      {
+        "tag": "otello",
+        "isReviewable": true
+      },
+      {
+        "tag": "booking",
+        "isReviewable": true
+      },
+      {
+        "tag": "netmonet",
+        "isReviewable": true
+      },
+      {
+        "tag": "tbank",
+        "isReviewable": true
+      },
+      {
+        "tag": "sbertips",
+        "isReviewable": true
+      }
+    ],
+    "sortBy": "trust",
+    "ratings": "all",
+    "locale": "ru_RU"
+  },
+  "reviews": [
+    {
+      "id": "10820408",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Стригусь у Елены уже примерно год. Очень легко понимает, что я хочу увидеть у себя на голове, стрижет без косяков, даёт много советов по уходу за моим типом волос. Цена/качество одно из самых высоких в городе, до этого стригся в барбершопе, в итоге ушёл к Елене.",
+      "dateCreated": "2019-07-20T13:33:41.119899+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 1,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": [
+        {
+          "id": "green_heart",
+          "emoji": null,
+          "count": 1
+        }
+      ],
+      "trustFactors": null
+    }
+  ],
+  "mediaMeta": {
+    "objectId": "4504127909079873",
+    "fetchedCount": 6,
+    "totalCount": 6,
+    "albums": [
+      {
+        "id": "all",
+        "name": "Все",
+        "count": 6
+      },
+      {
+        "id": "outside",
+        "name": "Снаружи",
+        "count": 3
+      },
+      {
+        "id": "interior",
+        "name": "Внутри",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "name": "Инвентарь",
+        "count": 1
+      },
+      {
+        "id": "information",
+        "name": "Информация",
+        "count": 1
+      }
+    ],
+    "locale": "ru_RU"
+  },
+  "media": [
+    {
+      "id": "30258560249557912",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/40a82d06-b652-42f1-aa2a-9f0f499e1103.jpg",
+      "width": 1281,
+      "height": 1420,
+      "owner": null,
+      "creationTime": "2025-07-31T23:59:00+00:00",
+      "modificationTime": "2025-08-01T00:00:52+00:00"
+    },
+    {
+      "id": "30258560108981376",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/0/30258560108981376_8778.jpg",
+      "width": 3468,
+      "height": 4624,
+      "owner": null,
+      "creationTime": "2023-06-27T08:46:29+00:00",
+      "modificationTime": "2023-06-27T08:46:29+00:00"
+    },
+    {
+      "id": "30258560188813648",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/3d7c75f0-e693-48ea-8c44-1b3e6838258e.jpg",
+      "width": 3060,
+      "height": 4080,
+      "owner": null,
+      "creationTime": "2024-07-17T15:52:58+00:00",
+      "modificationTime": "2024-07-17T15:53:00+00:00"
+    },
+    {
+      "id": "30258560188813668",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/02d9df2e-2ec4-4f52-b2ff-4f1e5e4d8bff.jpg",
+      "width": 3060,
+      "height": 4080,
+      "owner": null,
+      "creationTime": "2024-07-17T15:53:11+00:00",
+      "modificationTime": "2024-07-17T15:53:12+00:00"
+    },
+    {
+      "id": "30258560079163991",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/0/30258560079163991_2e67.jpg",
+      "width": 3000,
+      "height": 4000,
+      "owner": null,
+      "creationTime": "2022-07-28T18:04:56+00:00",
+      "modificationTime": "2022-07-28T18:04:57+00:00"
+    },
+    {
+      "id": "30258560163669887",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/images/geo/0/30258560163669887_5e05.jpg",
+      "width": 4000,
+      "height": 3000,
+      "owner": null,
+      "creationTime": "2023-11-28T18:41:18+00:00",
+      "modificationTime": "2023-11-28T18:41:19+00:00"
+    }
+  ],
+  "searchString": "лотос салон красоты",
+  "searchUrl": "https://2gis.ru/search/%D0%BB%D0%BE%D1%82%D0%BE%D1%81%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B/filters/bound?m=38.111959%2C55.569369%2F12",
+  "pageNumber": 1,
+  "scrapedAt": "2026-07-03T17:08:18.794Z"
+},
+{
+  "id": "70000001046777969",
+  "objectType": "branch",
+  "title": "Лотос, парикмахерская",
+  "shortName": "Лотос",
+  "extension": "парикмахерская",
+  "url": "https://2gis.ru/lyubertsy/firm/70000001046777969",
+  "rubrics": [
+    "Парикмахерские"
+  ],
+  "category": "beauty",
+  "totalScore": null,
+  "reviewsCount": null,
+  "ratingCount": null,
+  "summary": null,
+  "description": null,
+  "postcode": "140006",
+  "addressComment": null,
+  "country": "Россия",
+  "region": "Московская область",
+  "city": "Люберцы",
+  "district": null,
+  "living_area": null,
+  "street": "Южная улица",
+  "houseNumber": "6а",
+  "address": "Южная улица, 6а",
+  "badges": null,
+  "createdAt": null,
+  "updatedAt": "2025-09-23T14:14:49Z",
+  "timezoneOffset": 180,
+  "mainPhotoUrl": "https://i4.photo.2gis.com/main/branch/32/70000001046777969/common",
+  "location": {
+    "lat": 55.660394,
+    "lng": 37.905098
+  },
+  "working_hours": {
+    "Fri": {
+      "from": "09:00",
+      "to": "20:00"
+    },
+    "Mon": {
+      "from": "09:00",
+      "to": "20:00"
+    },
+    "Sat": {
+      "from": "09:00",
+      "to": "20:00"
+    },
+    "Sun": {
+      "from": "09:00",
+      "to": "20:00"
+    },
+    "Thu": {
+      "from": "09:00",
+      "to": "20:00"
+    },
+    "Tue": {
+      "from": "09:00",
+      "to": "20:00"
+    },
+    "Wed": {
+      "from": "09:00",
+      "to": "20:00"
+    }
+  },
+  "scheduleSpecial": null,
+  "nearestStations": [
+    {
+      "name": "Космонавтов",
+      "distance": 160,
+      "comment": null
+    }
+  ],
+  "attributeGroups": [
+    "Детская стрижка",
+    "Стрижка бороды",
+    "Сложное окрашивание",
+    "Полировка волос",
+    "Свадебные и вечерние причёски",
+    "Оплата картой",
+    "Наличный расчёт",
+    "Перевод с карты",
+    "Оплата по QR-коду"
+  ],
+  "brand": {
+    "name": "Лотос, парикмахерская",
+    "shortName": "Лотос",
+    "extension": "парикмахерская",
+    "branchCount": 1,
+    "rating": null
+  },
+  "phoneText": [
+    "+7‒968‒495‒14‒83",
+    "+7‒925‒724‒05‒51"
+  ],
+  "phoneValue": [
+    "+79684951483",
+    "+79257240551"
+  ],
+  "email": null,
+  "website": null,
+  "socials": {
+    "whatsapp": [
+      "https://wa.me/79091526251",
+      "https://wa.me/79684951483",
+      "https://wa.me/79257240551"
+    ]
+  },
+  "reviewsMeta": {
+    "branchId": "70000001046777969",
+    "branchRating": 0,
+    "branchReviewsCount": 0,
+    "totalCount": null,
+    "ratedCount": 0,
+    "unratedCount": 0,
+    "fetchedCount": 0,
+    "providers": [
+      {
+        "tag": "flamp",
+        "isReviewable": true
+      },
+      {
+        "tag": "2gis",
+        "isReviewable": true
+      },
+      {
+        "tag": "otello",
+        "isReviewable": true
+      },
+      {
+        "tag": "booking",
+        "isReviewable": true
+      },
+      {
+        "tag": "netmonet",
+        "isReviewable": true
+      },
+      {
+        "tag": "tbank",
+        "isReviewable": true
+      },
+      {
+        "tag": "sbertips",
+        "isReviewable": true
+      }
+    ],
+    "sortBy": "trust",
+    "ratings": "all",
+    "locale": "ru_RU"
+  },
+  "reviews": null,
+  "mediaMeta": {
+    "objectId": "70000001046777969",
+    "fetchedCount": 2,
+    "totalCount": 2,
+    "albums": [
+      {
+        "id": "all",
+        "name": "Все",
+        "count": 2
+      },
+      {
+        "id": "outside",
+        "name": "Снаружи",
+        "count": 2
+      }
+    ],
+    "locale": "ru_RU"
+  },
+  "media": [
+    {
+      "id": "30258560074470674",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/images/branch/0/30258560074470674_bbec.jpg",
+      "width": 4000,
+      "height": 3000,
+      "owner": null,
+      "creationTime": "2022-05-23T17:33:49+00:00",
+      "modificationTime": "2022-05-23T17:33:49+00:00"
+    },
+    {
+      "id": "30258560283226806",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/photo-gallery/f3afecb1-789a-407e-97b8-f09861a6be71.jpg",
+      "width": 3264,
+      "height": 2448,
+      "owner": null,
+      "creationTime": "2026-01-16T05:23:39+00:00",
+      "modificationTime": "2026-05-27T13:08:46+00:00"
+    }
+  ],
+  "searchString": "лотос салон красоты",
+  "searchUrl": "https://2gis.ru/search/%D0%BB%D0%BE%D1%82%D0%BE%D1%81%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B/filters/bound?m=38.111959%2C55.569369%2F12",
+  "pageNumber": 1,
+  "scrapedAt": "2026-07-03T17:08:20.257Z"
+},
+{
+  "id": "70000001040732704",
+  "objectType": "branch",
+  "title": "Лотос, парикмахерская",
+  "shortName": "Лотос",
+  "extension": "парикмахерская",
+  "url": "https://2gis.ru/bronnicy/firm/70000001040732704",
+  "rubrics": [
+    "Парикмахерские"
+  ],
+  "category": "beauty",
+  "totalScore": null,
+  "reviewsCount": null,
+  "ratingCount": null,
+  "summary": null,
+  "description": null,
+  "postcode": "140170",
+  "addressComment": "1 этаж",
+  "country": "Россия",
+  "region": "Московская область",
+  "city": "Бронницы",
+  "district": null,
+  "living_area": "Совхоз м-н",
+  "street": "Московская улица",
+  "houseNumber": "14",
+  "address": "Московская улица, 14",
+  "badges": null,
+  "createdAt": null,
+  "updatedAt": "2026-05-15T14:52:19Z",
+  "timezoneOffset": 180,
+  "mainPhotoUrl": "https://i2.photo.2gis.com/main/branch/32/70000001040732704/common",
+  "location": {
+    "lat": 55.428373,
+    "lng": 38.251433
+  },
+  "working_hours": {
+    "Fri": {
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "Mon": {
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "Sat": {
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "Sun": {
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "Thu": {
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "Tue": {
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "Wed": {
+      "from": "09:00",
+      "to": "18:00"
+    }
+  },
+  "scheduleSpecial": null,
+  "nearestStations": [
+    {
+      "name": "ППМ",
+      "distance": 60,
+      "comment": null
+    }
+  ],
+  "attributeGroups": [
+    "Жен.стрижка от 700 ₽",
+    "Муж.стрижка от 600 ₽",
+    "Детская стрижка",
+    "Наличный расчёт",
+    "Перевод с карты"
+  ],
+  "brand": {
+    "name": "Лотос, парикмахерская, г. Бронницы",
+    "shortName": "Лотос",
+    "extension": "парикмахерская",
+    "branchCount": 1,
+    "rating": null
+  },
+  "phoneText": [
+    "+7‒977‒545‒05‒17"
+  ],
+  "phoneValue": [
+    "+79775450517"
+  ],
+  "email": null,
+  "website": null,
+  "socials": {
+    "whatsapp": [
+      "https://wa.me/79775450517",
+      "https://wa.me/79017117725"
+    ]
+  },
+  "reviewsMeta": {
+    "branchId": "70000001040732704",
+    "branchRating": 0,
+    "branchReviewsCount": 0,
+    "totalCount": null,
+    "ratedCount": 0,
+    "unratedCount": 0,
+    "fetchedCount": 0,
+    "providers": [
+      {
+        "tag": "flamp",
+        "isReviewable": true
+      },
+      {
+        "tag": "2gis",
+        "isReviewable": true
+      },
+      {
+        "tag": "otello",
+        "isReviewable": true
+      },
+      {
+        "tag": "booking",
+        "isReviewable": true
+      },
+      {
+        "tag": "netmonet",
+        "isReviewable": true
+      },
+      {
+        "tag": "tbank",
+        "isReviewable": true
+      },
+      {
+        "tag": "sbertips",
+        "isReviewable": true
+      }
+    ],
+    "sortBy": "trust",
+    "ratings": "all",
+    "locale": "ru_RU"
+  },
+  "reviews": null,
+  "mediaMeta": {
+    "objectId": "70000001040732704",
+    "fetchedCount": 3,
+    "totalCount": 3,
+    "albums": [
+      {
+        "id": "all",
+        "name": "Все",
+        "count": 3
+      },
+      {
+        "id": "outside",
+        "name": "Снаружи",
+        "count": 2
+      },
+      {
+        "id": "interior",
+        "name": "Внутри",
+        "count": 1
+      }
+    ],
+    "locale": "ru_RU"
+  },
+  "media": [
+    {
+      "id": "30258560314091295",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/photo-gallery/5396c496-b6d7-4fe1-9cf0-60bab44967c6.jpg",
+      "width": 2304,
+      "height": 1728,
+      "owner": null,
+      "creationTime": "2026-05-16T06:02:55+00:00",
+      "modificationTime": "2026-05-16T06:02:56+00:00"
+    },
+    {
+      "id": "30258560078418221",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560078418221_9b3e.jpg",
+      "width": 3000,
+      "height": 4000,
+      "owner": null,
+      "creationTime": "2022-07-18T22:13:42+00:00",
+      "modificationTime": "2022-07-18T22:13:43+00:00"
+    },
+    {
+      "id": "30258560078418222",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/images/branch/0/30258560078418222_9edf.jpg",
+      "width": 3472,
+      "height": 4624,
+      "owner": null,
+      "creationTime": "2022-07-18T22:13:47+00:00",
+      "modificationTime": "2022-07-18T22:13:47+00:00"
+    }
+  ],
+  "searchString": "лотос салон красоты",
+  "searchUrl": "https://2gis.ru/search/%D0%BB%D0%BE%D1%82%D0%BE%D1%81%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B/filters/bound?m=38.111959%2C55.569369%2F12",
+  "pageNumber": 1,
+  "scrapedAt": "2026-07-03T17:08:21.509Z"
+},
+{
+  "id": "70000001114742216",
+  "objectType": "branch",
+  "title": "Лотос",
+  "shortName": null,
+  "extension": null,
+  "url": "https://2gis.ru/moscow/firm/70000001114742216",
+  "rubrics": [
+    "Эпиляция",
+    "Оформление бровей и ресниц",
+    "Косметолог",
+    "Перманентный макияж"
+  ],
+  "category": "cosmetic_procedures",
+  "totalScore": null,
+  "reviewsCount": null,
+  "ratingCount": 1,
+  "summary": null,
+  "description": null,
+  "postcode": "109431",
+  "addressComment": "405 офис; 4 этаж",
+  "country": "Россия",
+  "region": "Москва",
+  "city": "Москва",
+  "district": "Выхино-Жулебино",
+  "living_area": null,
+  "street": "Привольная улица",
+  "houseNumber": "70",
+  "address": "Привольная улица, 70",
+  "badges": null,
+  "createdAt": "2021-06-01T00:00:00Z",
+  "updatedAt": "2026-06-09T10:59:38Z",
+  "timezoneOffset": 180,
+  "mainPhotoUrl": null,
+  "location": {
+    "lat": 55.67856,
+    "lng": 37.85332
+  },
+  "working_hours": {
+    "Fri": {
+      "from": "10:00",
+      "to": "23:00"
+    },
+    "Mon": {
+      "from": "10:00",
+      "to": "23:00"
+    },
+    "Sat": {
+      "from": "10:00",
+      "to": "22:00"
+    },
+    "Sun": {
+      "from": "10:00",
+      "to": "22:00"
+    },
+    "Thu": {
+      "from": "10:00",
+      "to": "23:00"
+    },
+    "Tue": {
+      "from": "10:00",
+      "to": "23:00"
+    },
+    "Wed": {
+      "from": "10:00",
+      "to": "23:00"
+    }
+  },
+  "scheduleSpecial": null,
+  "nearestStations": [
+    {
+      "name": "Котельники",
+      "distance": 390,
+      "comment": "Таганско-Краснопресненская линия"
+    },
+    {
+      "name": "Жулебино",
+      "distance": 700,
+      "comment": "Таганско-Краснопресненская линия"
+    }
+  ],
+  "attributeGroups": null,
+  "brand": {
+    "name": "Лотос",
+    "shortName": "Лотос",
+    "extension": null,
+    "branchCount": 1,
+    "rating": {
+      "score": 0,
+      "reviews": 1
+    }
+  },
+  "phoneText": [
+    "+7‒909‒908‒94‒66"
+  ],
+  "phoneValue": [
+    "+79099089466"
+  ],
+  "email": null,
+  "website": [
+    "http://dikidi.ru/ru/profile/studiya_depilyacii_skins_1182674"
+  ],
+  "socials": null,
+  "reviewsMeta": {
+    "branchId": "70000001114742216",
+    "branchRating": 0,
+    "branchReviewsCount": 0,
+    "totalCount": null,
+    "ratedCount": 0,
+    "unratedCount": 0,
+    "fetchedCount": 0,
+    "providers": [
+      {
+        "tag": "flamp",
+        "isReviewable": true
+      },
+      {
+        "tag": "2gis",
+        "isReviewable": true
+      },
+      {
+        "tag": "otello",
+        "isReviewable": true
+      },
+      {
+        "tag": "booking",
+        "isReviewable": true
+      },
+      {
+        "tag": "netmonet",
+        "isReviewable": true
+      },
+      {
+        "tag": "tbank",
+        "isReviewable": true
+      },
+      {
+        "tag": "sbertips",
+        "isReviewable": true
+      }
+    ],
+    "sortBy": "trust",
+    "ratings": "all",
+    "locale": "ru_RU"
+  },
+  "reviews": null,
+  "mediaMeta": {
+    "objectId": "70000001114742216",
+    "fetchedCount": 0,
+    "totalCount": 0,
+    "albums": [
+      {
+        "id": "all",
+        "name": "Все",
+        "count": 0
+      }
+    ],
+    "locale": "ru_RU"
+  },
+  "media": null,
+  "searchString": "лотос салон красоты",
+  "searchUrl": "https://2gis.ru/search/%D0%BB%D0%BE%D1%82%D0%BE%D1%81%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B/filters/bound?m=38.111959%2C55.569369%2F12",
+  "pageNumber": 1,
+  "scrapedAt": "2026-07-03T17:08:22.531Z"
+},
+{
+  "id": "70000001034416719",
+  "objectType": "branch",
+  "title": "Лотос, салон красоты",
+  "shortName": "Лотос",
+  "extension": "салон красоты",
+  "url": "https://2gis.ru/moscow/firm/70000001034416719",
+  "rubrics": [
+    "Парикмахерские",
+    "Ногтевые студии",
+    "Оформление бровей и ресниц"
+  ],
+  "category": "beauty",
+  "totalScore": 4.9,
+  "reviewsCount": 68,
+  "ratingCount": 92,
+  "summary": null,
+  "description": null,
+  "postcode": "127081",
+  "addressComment": "37 павильон; 2 этаж",
+  "country": "Россия",
+  "region": "Москва",
+  "city": "Москва",
+  "district": "Южное Медведково",
+  "living_area": null,
+  "street": "проезд Дежнёва",
+  "houseNumber": "23",
+  "address": "проезд Дежнёва, 23",
+  "badges": null,
+  "createdAt": "2013-01-01T00:00:00Z",
+  "updatedAt": "2026-03-23T10:54:16Z",
+  "timezoneOffset": 180,
+  "mainPhotoUrl": "https://i2.photo.2gis.com/main/branch/32/70000001034416719/common",
+  "location": {
+    "lat": 55.869677,
+    "lng": 37.63736
+  },
+  "working_hours": {
+    "Fri": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Mon": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Sat": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Sun": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Thu": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Tue": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Wed": {
+      "from": "10:00",
+      "to": "21:00"
+    }
+  },
+  "scheduleSpecial": null,
+  "nearestStations": [
+    {
+      "name": "Бабушкинская",
+      "distance": 1900,
+      "comment": "Калужско-Рижская линия"
+    }
+  ],
+  "attributeGroups": [
+    "Жен.стрижка от 1000 ₽",
+    "Муж.стрижка от 900 ₽",
+    "Детская стрижка",
+    "Женская химзавивка",
+    "Плетение кос",
+    "Сложное окрашивание",
+    "Ботокс волос",
+    "Полировка волос",
+    "Свадебные и вечерние причёски",
+    "Прикорневой объём волос",
+    "Женский педикюр",
+    "Наращивание гелем",
+    "Наращивание акрилом",
+    "Мужской маникюр",
+    "Детский маникюр",
+    "Гель-лак",
+    "Аппаратный маникюр",
+    "Парафиновые ванночки",
+    "Мужской педикюр",
+    "Наращивание ресниц",
+    "Ламинирование ресниц",
+    "Окрашивание ресниц",
+    "Коррекция бровей",
+    "Окрашивание бровей",
+    "Ламинирование бровей",
+    "Wi-Fi для клиентов",
+    "Оплата картой",
+    "Наличный расчёт",
+    "Перевод с карты",
+    "Оплата по QR-коду",
+    "Доступный вход для людей с инвалидностью"
+  ],
+  "brand": {
+    "name": "Лотос, салон красоты",
+    "shortName": "Лотос",
+    "extension": "салон красоты",
+    "branchCount": 1,
+    "rating": {
+      "score": 4.9,
+      "reviews": 92
+    }
+  },
+  "phoneText": [
+    "+7‒985‒501‒04‒92",
+    "+7‒901‒468‒49‒97"
+  ],
+  "phoneValue": [
+    "+79855010492",
+    "+79014684997"
+  ],
+  "email": null,
+  "website": null,
+  "socials": {
+    "vk": [
+      "https://vk.com/salon.krasoty.lotos"
+    ],
+    "telegram": [
+      "https://t.me/salonkrasotylotos"
+    ],
+    "whatsapp": [
+      "https://wa.me/79855010492"
+    ],
+    "other": [
+      "https://ok.ru/salonkrasoty.lotos"
+    ]
+  },
+  "reviewsMeta": {
+    "branchId": "70000001034416719",
+    "branchRating": 4.9,
+    "branchReviewsCount": 68,
+    "totalCount": 67,
+    "ratedCount": 67,
+    "unratedCount": null,
+    "fetchedCount": 20,
+    "providers": [
+      {
+        "tag": "flamp",
+        "isReviewable": true
+      },
+      {
+        "tag": "2gis",
+        "isReviewable": true
+      },
+      {
+        "tag": "otello",
+        "isReviewable": true
+      },
+      {
+        "tag": "booking",
+        "isReviewable": true
+      },
+      {
+        "tag": "netmonet",
+        "isReviewable": true
+      },
+      {
+        "tag": "tbank",
+        "isReviewable": true
+      },
+      {
+        "tag": "sbertips",
+        "isReviewable": true
+      }
+    ],
+    "sortBy": "trust",
+    "ratings": "all",
+    "locale": "ru_RU"
+  },
+  "reviews": [
+    {
+      "id": "88498302",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Хожу к мастеру Жене больше года на разные процедуры: смывка черного окрашивания, окрашивание перманентной краской, цветные окрашивания, стрижки. Всегда довольна результатом, работа качественная, волосы в отличном состоянии)",
+      "dateCreated": "2024-06-29T01:07:33.368266+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 1,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": [
+        {
+          "id": "green_heart",
+          "emoji": null,
+          "count": 1
+        }
+      ],
+      "trustFactors": null
+    },
+    {
+      "id": "243649143",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Салон посетила в первые, осталась довольна. Атмосфера 🔥Мастер по маникюру Мия очень приятная девушка, профессионал своего дела. Так же приятное впечатление произвел владелец салона. Данный салон рекомендую.",
+      "dateCreated": "2026-05-20T02:42:42.151463+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "222428472",
+      "provider": "tbank",
+      "rating": 5,
+      "text": "Хороший салон, уютный",
+      "dateCreated": "2025-05-23T02:12:27.864064+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": {
+        "caption": "Оплата Т-Банк",
+        "confirmedCaption": "Отзыв подтверждён",
+        "factors": [
+          {
+            "type": "transaction_confirmation",
+            "caption": "Оплата Т-Банк",
+            "lastVisit": null,
+            "visitsCount": null,
+            "transactionProvider": "tbank",
+            "icon": "https://cachizer3.2gis.com/reviews-logos/dd38d673-d4f5-4fcf-a722-64232f60c80b.png?h={height}&w={width}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "222324479",
+      "provider": "tbank",
+      "rating": 5,
+      "text": "Лучший салон красоты. Большое спасибо Галине",
+      "dateCreated": "2024-11-15T17:27:51.876912+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": {
+        "caption": "Оплата Т-Банк",
+        "confirmedCaption": "Отзыв подтверждён",
+        "factors": [
+          {
+            "type": "transaction_confirmation",
+            "caption": "Оплата Т-Банк",
+            "lastVisit": null,
+            "visitsCount": null,
+            "transactionProvider": "tbank",
+            "icon": "https://cachizer3.2gis.com/reviews-logos/dd38d673-d4f5-4fcf-a722-64232f60c80b.png?h={height}&w={width}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "224184325",
+      "provider": "tbank",
+      "rating": 5,
+      "text": "Все отлично, прическа то что надо",
+      "dateCreated": "2024-10-02T20:12:12.556841+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": {
+        "caption": "Оплата Т-Банк",
+        "confirmedCaption": "Отзыв подтверждён",
+        "factors": [
+          {
+            "type": "transaction_confirmation",
+            "caption": "Оплата Т-Банк",
+            "lastVisit": null,
+            "visitsCount": null,
+            "transactionProvider": "tbank",
+            "icon": "https://cachizer3.2gis.com/reviews-logos/dd38d673-d4f5-4fcf-a722-64232f60c80b.png?h={height}&w={width}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "226163236",
+      "provider": "tbank",
+      "rating": 5,
+      "text": "Отличный салон с приятной атмосферой. Сделала маникюр и педикюр. Мастер понравился. Очень внимателтная и аккуратная девушка Чопа",
+      "dateCreated": "2024-07-31T13:26:08.119749+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": {
+        "caption": "Оплата Т-Банк",
+        "confirmedCaption": "Отзыв подтверждён",
+        "factors": [
+          {
+            "type": "transaction_confirmation",
+            "caption": "Оплата Т-Банк",
+            "lastVisit": null,
+            "visitsCount": null,
+            "transactionProvider": "tbank",
+            "icon": "https://cachizer3.2gis.com/reviews-logos/dd38d673-d4f5-4fcf-a722-64232f60c80b.png?h={height}&w={width}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "222007260",
+      "provider": "tbank",
+      "rating": 5,
+      "text": "Ходила на наращивание ресниц, сделали как я хотела и долго держится. Салон приятный и очень мягкая кушетка.",
+      "dateCreated": "2023-12-26T19:13:20.685626+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": {
+        "caption": "Оплата Т-Банк",
+        "confirmedCaption": "Отзыв подтверждён",
+        "factors": [
+          {
+            "type": "transaction_confirmation",
+            "caption": "Оплата Т-Банк",
+            "lastVisit": null,
+            "visitsCount": null,
+            "transactionProvider": "tbank",
+            "icon": "https://cachizer3.2gis.com/reviews-logos/dd38d673-d4f5-4fcf-a722-64232f60c80b.png?h={height}&w={width}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "223741901",
+      "provider": "tbank",
+      "rating": 5,
+      "text": "Хороший салон. Делала стрижку каре у мастера Жени- внимательно выслушала все пожелания и результат обрадовал. Рекомендую🌺",
+      "dateCreated": "2023-11-20T20:52:26.942828+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": {
+        "caption": "Оплата Т-Банк",
+        "confirmedCaption": "Отзыв подтверждён",
+        "factors": [
+          {
+            "type": "transaction_confirmation",
+            "caption": "Оплата Т-Банк",
+            "lastVisit": null,
+            "visitsCount": null,
+            "transactionProvider": "tbank",
+            "icon": "https://cachizer3.2gis.com/reviews-logos/dd38d673-d4f5-4fcf-a722-64232f60c80b.png?h={height}&w={width}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "222007481",
+      "provider": "tbank",
+      "rating": 5,
+      "text": "Очень понравилось обслуживание персонала ,благодарю мастера Екатерину за ее работу  и Директора Алёну  за прекрасную атмосферу и профессионализм  .",
+      "dateCreated": "2023-11-18T00:45:26.41691+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": {
+        "caption": "Оплата Т-Банк",
+        "confirmedCaption": "Отзыв подтверждён",
+        "factors": [
+          {
+            "type": "transaction_confirmation",
+            "caption": "Оплата Т-Банк",
+            "lastVisit": null,
+            "visitsCount": null,
+            "transactionProvider": "tbank",
+            "icon": "https://cachizer3.2gis.com/reviews-logos/dd38d673-d4f5-4fcf-a722-64232f60c80b.png?h={height}&w={width}"
+          }
+        ]
+      }
+    },
+    {
+      "id": "210539910",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Большое спасибо мастеру - Жене! В новогодние праздники - большая удача попасть на стрижку к уже известному парикмахеру, зная , что учтут все твои пожелания по стрижке!🎄⭐️☀️🙌",
+      "dateCreated": "2026-01-06T16:16:36.207546+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 1,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": [
+        {
+          "id": "fire",
+          "emoji": null,
+          "count": 1
+        }
+      ],
+      "trustFactors": null
+    },
+    {
+      "id": "207581197",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Самый лучший салон красоты! Внимательные и отзывчивые мастера, лёгкая праздничная атмосыера, отличная стрижка и симпатичный маникюр, и мир вокруг становится прекрасней))",
+      "dateCreated": "2025-12-24T04:11:57.99443+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 1,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": [
+        {
+          "id": "fire",
+          "emoji": null,
+          "count": 1
+        }
+      ],
+      "trustFactors": null
+    },
+    {
+      "id": "141170471",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Была в салоне в первый раз, девушки администраторы и мастер Чопа выше всяких похвал!)) Спасибо большое, девушки, скоро вернусь))",
+      "dateCreated": "2025-02-22T18:08:14.56251+07:00",
+      "dateEdited": "2025-05-23T14:52:16.261054+07:00",
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "144366315",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Хороший салон , хожу на маникюр уже больше года, все мастера нравятся, ходила ко всем мастерам по маникюру. Очень хорошее отношение администраторов к клиентам , так что клиентоориентированность на высшем уровне❤️💅🏻",
+      "dateCreated": "2025-03-09T23:06:18.514077+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "128595899",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Полностью довольна работой всех мастеров салона. Хотелось бы отметить парикмахера Женю, у которой довольно часто делаю стрижку. Отлично и качественно выполняет свою работу, настоящий профессионал своего дела!",
+      "dateCreated": "2024-12-19T02:23:46.678921+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "116549318",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Первый раз посетила этот салон сегодня и осталась очень довольна! В помещении комфортно и уютно. Мастер Елена приветливая и знает свое дело на все 100%. Помогла определиться с цветом и я осталась им довольна! Спасибо, обязательно вернусь к вам!",
+      "dateCreated": "2024-10-16T21:46:53.302048+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "104632779",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Отличный салон, доброжелательный приятный персонал, мастер парикмахер Женя профессионал, сделала все, как я хотела. Наргиза мастер маникюра великолепна, рекомендую салон Лотос.",
+      "dateCreated": "2024-08-10T21:34:31.450039+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 1,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": [
+        {
+          "id": "green_heart",
+          "emoji": null,
+          "count": 1
+        }
+      ],
+      "trustFactors": null
+    },
+    {
+      "id": "72419828",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Спасибо мастеру Галине! Профессионал своего дела! Салон также в постоянном обновлении интерьера, очень приветливые сотрудники!\nПредлагают чай, сладости во время процедур.\nОчень рекрекомендую!",
+      "dateCreated": "2024-02-04T17:54:49.877859+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "148936322",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Матер Татьяна по ногтям, быстро оперативно и очень круто!",
+      "dateCreated": "2025-03-31T19:50:22.931504+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "114791158",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Уже второй раз делаю реснички у Валерии, очень долгая носка и красивое наращивание😍",
+      "dateCreated": "2024-10-06T21:37:07.003706+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "90602981",
+      "provider": "2gis",
+      "rating": 3,
+      "text": "Прической довольна, общением мастера с клиентом - категорически нет.",
+      "dateCreated": "2024-07-14T21:21:29.238637+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    }
+  ],
+  "mediaMeta": {
+    "objectId": "70000001034416719",
+    "fetchedCount": 49,
+    "totalCount": 49,
+    "albums": [
+      {
+        "id": "all",
+        "name": "Все",
+        "count": 49
+      },
+      {
+        "id": "outside",
+        "name": "Снаружи",
+        "count": 1
+      },
+      {
+        "id": "interior",
+        "name": "Внутри",
+        "count": 1
+      },
+      {
+        "id": "services",
+        "name": "Услуги",
+        "count": 45
+      },
+      {
+        "id": "food_and_drinks",
+        "name": "Еда и напитки",
+        "count": 1
+      },
+      {
+        "id": "owner",
+        "name": "От владельца",
+        "count": 28
+      },
+      {
+        "id": "user",
+        "name": "От пользователей",
+        "count": 19
+      }
+    ],
+    "locale": "ru_RU"
+  },
+  "media": [
+    {
+      "id": "30258560053852067",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560053852067_561a.jpg",
+      "width": 736,
+      "height": 853,
+      "owner": null,
+      "creationTime": "2020-11-25T06:22:11+00:00",
+      "modificationTime": "2020-11-25T14:24:41+00:00"
+    },
+    {
+      "id": "30258560053823358",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560053823358_a56f.jpg",
+      "width": 3024,
+      "height": 3024,
+      "owner": {
+        "id": "15874597",
+        "name": "Студия Красоты Лотос",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2020-11-24T08:02:20+00:00",
+      "modificationTime": "2020-11-25T07:12:18+00:00"
+    },
+    {
+      "id": "30258560094911777",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560094911777_d25a.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2022-12-03T11:49:10+00:00",
+      "modificationTime": "2022-12-22T19:13:38+00:00"
+    },
+    {
+      "id": "30258560089275823",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/images/branch/0/30258560089275823_1ac0.jpg",
+      "width": 3456,
+      "height": 4608,
+      "owner": {
+        "id": "34130849",
+        "name": "Настюшка Подкопаева",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-05-27T22:33:02+00:00",
+      "modificationTime": "2026-03-17T15:40:47+00:00"
+    },
+    {
+      "id": "30258560057590195",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560057590195_8917.jpg",
+      "width": 750,
+      "height": 750,
+      "owner": null,
+      "creationTime": "2021-03-30T12:58:45+00:00",
+      "modificationTime": "2021-03-31T14:18:19+00:00"
+    },
+    {
+      "id": "30258560054286941",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560054286941_6fd7.jpg",
+      "width": 750,
+      "height": 611,
+      "owner": null,
+      "creationTime": "2020-12-08T19:12:09+00:00",
+      "modificationTime": "2021-03-21T07:33:13+00:00"
+    },
+    {
+      "id": "30258560186145316",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/ba446e7e-29d0-4020-93c5-e09254e4a962.jpg",
+      "width": 3024,
+      "height": 4032,
+      "owner": {
+        "id": "44610455",
+        "name": "Майя Челюк",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2024-06-28T18:07:33+00:00",
+      "modificationTime": "2024-06-28T18:07:53+00:00"
+    },
+    {
+      "id": "30258560246855791",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/photo-gallery/0cfb456d-c6e7-4431-88e4-eb1def362426.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2025-07-21T08:29:10+00:00",
+      "modificationTime": "2025-07-21T08:33:39+00:00"
+    },
+    {
+      "id": "30258560057590016",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560057590016_4e2f.jpg",
+      "width": 750,
+      "height": 750,
+      "owner": null,
+      "creationTime": "2021-03-30T12:55:05+00:00",
+      "modificationTime": "2021-03-31T14:13:52+00:00"
+    },
+    {
+      "id": "30258560089275760",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/images/branch/0/30258560089275760_b3ed.jpg",
+      "width": 3456,
+      "height": 4608,
+      "owner": {
+        "id": "34130849",
+        "name": "Настюшка Подкопаева",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-05-27T22:33:02+00:00",
+      "modificationTime": "2026-03-17T15:40:50+00:00"
+    },
+    {
+      "id": "30258560094911724",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560094911724_16db.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2022-12-03T11:48:56+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560246855790",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/434642df-f3b3-411f-ade5-85399252ee72.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2025-07-21T08:29:10+00:00",
+      "modificationTime": "2025-07-21T08:33:50+00:00"
+    },
+    {
+      "id": "30258560094911761",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/images/branch/0/30258560094911761_e333.jpg",
+      "width": 675,
+      "height": 1200,
+      "owner": null,
+      "creationTime": "2022-12-03T11:49:07+00:00",
+      "modificationTime": "2022-12-22T19:13:38+00:00"
+    },
+    {
+      "id": "30258560246855789",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/photo-gallery/03416804-86af-4c70-87a3-d74e412280e6.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2025-07-21T08:29:10+00:00",
+      "modificationTime": "2025-07-21T08:33:48+00:00"
+    },
+    {
+      "id": "30258560307580174",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/3f0c136b-8718-473c-adc5-8a1e7b0f2124.jpg",
+      "width": 5250,
+      "height": 7000,
+      "owner": {
+        "id": "97124652",
+        "name": "Юлия Меньшова",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2026-04-18T10:10:53+00:00",
+      "modificationTime": "2026-04-18T10:11:43+00:00"
+    },
+    {
+      "id": "30258560246855792",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/8840fed1-2c33-488a-800a-c7dac42e1747.jpg",
+      "width": 1170,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2025-07-21T08:29:10+00:00",
+      "modificationTime": "2025-07-21T08:33:48+00:00"
+    },
+    {
+      "id": "30258560089275778",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/images/branch/0/30258560089275778_13ac.jpg",
+      "width": 3456,
+      "height": 4608,
+      "owner": {
+        "id": "34130849",
+        "name": "Настюшка Подкопаева",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-05-27T22:33:02+00:00",
+      "modificationTime": "2026-03-17T15:39:26+00:00"
+    },
+    {
+      "id": "30258560246855795",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/f26c02e6-dad3-4f58-85cf-6fcf97dc364a.jpg",
+      "width": 1179,
+      "height": 1173,
+      "owner": null,
+      "creationTime": "2025-07-21T08:29:10+00:00",
+      "modificationTime": "2025-07-21T08:33:39+00:00"
+    },
+    {
+      "id": "30258560089275723",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560089275723_31fd.jpg",
+      "width": 798,
+      "height": 1080,
+      "owner": {
+        "id": "34130849",
+        "name": "Настюшка Подкопаева",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-05-27T22:33:02+00:00",
+      "modificationTime": "2026-03-17T15:40:24+00:00"
+    },
+    {
+      "id": "30258560089275893",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/images/branch/0/30258560089275893_36cb.jpg",
+      "width": 3456,
+      "height": 4608,
+      "owner": {
+        "id": "34130849",
+        "name": "Настюшка Подкопаева",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-05-27T22:33:02+00:00",
+      "modificationTime": "2026-02-20T11:18:14+00:00"
+    },
+    {
+      "id": "30258560057590024",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560057590024_73d4.jpg",
+      "width": 650,
+      "height": 869,
+      "owner": null,
+      "creationTime": "2021-03-30T12:55:07+00:00",
+      "modificationTime": "2021-03-31T14:14:23+00:00"
+    },
+    {
+      "id": "30258560186145314",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/photo-gallery/3a08e466-215d-4fe7-bf78-6e7e6d6b6c77.jpg",
+      "width": 2316,
+      "height": 3088,
+      "owner": {
+        "id": "44610455",
+        "name": "Майя Челюк",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2024-06-28T18:07:33+00:00",
+      "modificationTime": "2024-07-01T03:51:34+00:00"
+    },
+    {
+      "id": "30258560089275726",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560089275726_5119.jpg",
+      "width": 3456,
+      "height": 4608,
+      "owner": {
+        "id": "34130849",
+        "name": "Настюшка Подкопаева",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-05-27T22:33:02+00:00",
+      "modificationTime": "2026-03-17T15:40:54+00:00"
+    },
+    {
+      "id": "30258560117799552",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560117799552_a2dc.jpg",
+      "width": 3000,
+      "height": 4000,
+      "owner": null,
+      "creationTime": "2023-09-14T16:29:15+00:00",
+      "modificationTime": "2023-09-14T16:29:16+00:00"
+    },
+    {
+      "id": "30258560307580182",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/photo-gallery/870e7db3-2574-4f34-b1b3-c61d26ada9ca.jpg",
+      "width": 5250,
+      "height": 7000,
+      "owner": {
+        "id": "97124652",
+        "name": "Юлия Меньшова",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2026-04-18T10:10:53+00:00",
+      "modificationTime": "2026-04-18T10:11:43+00:00"
+    },
+    {
+      "id": "30258560094911776",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560094911776_a044.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2022-12-03T11:49:10+00:00",
+      "modificationTime": "2022-12-22T19:13:38+00:00"
+    },
+    {
+      "id": "30258560094911733",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560094911733_5ae2.jpg",
+      "width": 762,
+      "height": 749,
+      "owner": null,
+      "creationTime": "2022-12-03T11:48:57+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560094911736",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560094911736_08f6.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2022-12-03T11:48:58+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560246855793",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/1c48b7b5-f897-49a2-a4f2-db446020b196.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2025-07-21T08:29:10+00:00",
+      "modificationTime": "2025-07-21T08:33:46+00:00"
+    },
+    {
+      "id": "30258560094911745",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560094911745_948d.jpg",
+      "width": 806,
+      "height": 1075,
+      "owner": null,
+      "creationTime": "2022-12-03T11:49:02+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560094911725",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/0/30258560094911725_399e.jpg",
+      "width": 750,
+      "height": 937,
+      "owner": null,
+      "creationTime": "2022-12-03T11:48:56+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560089275943",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/images/branch/0/30258560089275943_04a9.jpg",
+      "width": 3456,
+      "height": 4608,
+      "owner": {
+        "id": "34130849",
+        "name": "Настюшка Подкопаева",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-05-27T22:33:02+00:00",
+      "modificationTime": "2022-09-21T11:06:05+00:00"
+    },
+    {
+      "id": "30258560296918818",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/7e93fd06-5eb9-4a1c-b91a-1592d971b0aa.jpg",
+      "width": 4208,
+      "height": 2886,
+      "owner": null,
+      "creationTime": "2026-03-10T04:01:34+00:00",
+      "modificationTime": "2026-03-10T04:01:35+00:00"
+    },
+    {
+      "id": "30258560094911752",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/0/30258560094911752_464e.jpg",
+      "width": 750,
+      "height": 750,
+      "owner": null,
+      "creationTime": "2022-12-03T11:49:04+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560094911722",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/0/30258560094911722_5bf5.jpg",
+      "width": 750,
+      "height": 750,
+      "owner": null,
+      "creationTime": "2022-12-03T11:48:56+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560094911756",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560094911756_e85c.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2022-12-03T11:49:06+00:00",
+      "modificationTime": "2022-12-22T19:13:38+00:00"
+    },
+    {
+      "id": "30258560094911735",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560094911735_9fce.jpg",
+      "width": 739,
+      "height": 803,
+      "owner": null,
+      "creationTime": "2022-12-03T11:48:58+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560053852083",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560053852083_fd08.jpg",
+      "width": 667,
+      "height": 667,
+      "owner": null,
+      "creationTime": "2020-11-25T06:22:20+00:00",
+      "modificationTime": "2021-03-30T13:03:39+00:00"
+    },
+    {
+      "id": "30258560094911721",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/images/branch/0/30258560094911721_cb46.jpg",
+      "width": 750,
+      "height": 931,
+      "owner": null,
+      "creationTime": "2022-12-03T11:48:55+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560089552789",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/images/branch/0/30258560089552789_101b.jpg",
+      "width": 3472,
+      "height": 3056,
+      "owner": {
+        "id": "35667858",
+        "name": "NO NAME GAME",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-07-27T14:24:21+00:00",
+      "modificationTime": "2026-03-17T15:39:42+00:00"
+    },
+    {
+      "id": "30258560186145315",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/5ac89746-79da-4a7b-86b5-4e29d1de7955.jpg",
+      "width": 2316,
+      "height": 3088,
+      "owner": {
+        "id": "44610455",
+        "name": "Майя Челюк",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2024-06-28T18:07:33+00:00",
+      "modificationTime": "2024-07-01T03:51:31+00:00"
+    },
+    {
+      "id": "30258560054286944",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560054286944_6d35.jpg",
+      "width": 640,
+      "height": 640,
+      "owner": null,
+      "creationTime": "2020-12-08T19:12:10+00:00",
+      "modificationTime": "2020-12-09T14:17:00+00:00"
+    },
+    {
+      "id": "30258560089552806",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/0/30258560089552806_46a4.jpg",
+      "width": 2143,
+      "height": 1580,
+      "owner": {
+        "id": "35667858",
+        "name": "NO NAME GAME",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-07-27T14:24:21+00:00",
+      "modificationTime": "2026-03-17T15:41:21+00:00"
+    },
+    {
+      "id": "30258560246855794",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/ca549375-c6cb-448f-99f1-c4149c619b44.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2025-07-21T08:29:10+00:00",
+      "modificationTime": "2025-07-21T08:33:36+00:00"
+    },
+    {
+      "id": "30258560089552795",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/0/30258560089552795_dcb5.jpg",
+      "width": 2549,
+      "height": 3138,
+      "owner": {
+        "id": "35667858",
+        "name": "NO NAME GAME",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-07-27T14:24:21+00:00",
+      "modificationTime": "2026-03-17T15:41:10+00:00"
+    },
+    {
+      "id": "30258560094911730",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560094911730_2c8c.jpg",
+      "width": 749,
+      "height": 738,
+      "owner": null,
+      "creationTime": "2022-12-03T11:48:57+00:00",
+      "modificationTime": "2022-12-22T19:13:37+00:00"
+    },
+    {
+      "id": "30258560117951107",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560117951107_d871.jpg",
+      "width": 2316,
+      "height": 3088,
+      "owner": {
+        "id": "45549870",
+        "name": "Виктория Ермолаева",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2023-09-16T17:21:57+00:00",
+      "modificationTime": "2023-09-20T16:12:14+00:00"
+    },
+    {
+      "id": "30258560089552802",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560089552802_c87c.jpg",
+      "width": 1449,
+      "height": 1679,
+      "owner": {
+        "id": "35667858",
+        "name": "NO NAME GAME",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-07-27T14:24:21+00:00",
+      "modificationTime": "2026-03-17T15:41:14+00:00"
+    },
+    {
+      "id": "30258560089552817",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/images/branch/0/30258560089552817_dd75.jpg",
+      "width": 3472,
+      "height": 4624,
+      "owner": {
+        "id": "35667858",
+        "name": "NO NAME GAME",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-07-27T14:24:21+00:00",
+      "modificationTime": "2026-03-17T15:41:20+00:00"
+    }
+  ],
+  "searchString": "лотос салон красоты",
+  "searchUrl": "https://2gis.ru/search/%D0%BB%D0%BE%D1%82%D0%BE%D1%81%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B/filters/bound?m=38.111959%2C55.569369%2F12",
+  "pageNumber": 1,
+  "scrapedAt": "2026-07-03T17:08:24.921Z"
+},
+{
+  "id": "70000001109452497",
+  "objectType": "branch",
+  "title": "Лотос, салон красоты",
+  "shortName": "Лотос",
+  "extension": "салон красоты",
+  "url": "https://2gis.ru/reutov/firm/70000001109452497",
+  "rubrics": [
+    "Парикмахерские",
+    "Ногтевые студии",
+    "Оформление бровей и ресниц",
+    "Перманентный макияж"
+  ],
+  "category": "beauty",
+  "totalScore": null,
+  "reviewsCount": null,
+  "ratingCount": null,
+  "summary": null,
+  "description": null,
+  "postcode": "143964",
+  "addressComment": null,
+  "country": "Россия",
+  "region": "Московская область",
+  "city": "Реутов",
+  "district": null,
+  "living_area": null,
+  "street": "улица Ленина",
+  "houseNumber": "1а",
+  "address": "улица Ленина, 1а",
+  "badges": null,
+  "createdAt": null,
+  "updatedAt": "2026-05-12T13:03:38Z",
+  "timezoneOffset": 180,
+  "mainPhotoUrl": "https://i6.photo.2gis.com/main/branch/32/70000001109452497/common",
+  "location": {
+    "lat": 55.75335,
+    "lng": 37.857748
+  },
+  "working_hours": {
+    "Fri": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "Mon": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "Sat": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "Sun": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "Thu": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "Tue": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "Wed": {
+      "from": "10:00",
+      "to": "20:00"
+    }
+  },
+  "scheduleSpecial": null,
+  "nearestStations": [
+    {
+      "name": "Реутов",
+      "distance": 180,
+      "comment": "D4 Калужско-Нижегородский диаметр"
+    },
+    {
+      "name": "Новокосино",
+      "distance": 1100,
+      "comment": "Калининская линия"
+    }
+  ],
+  "attributeGroups": [
+    "Детская стрижка",
+    "Стрижка бороды",
+    "Женская химзавивка",
+    "Мужская химзавивка",
+    "Плетение кос",
+    "Сложное окрашивание",
+    "Стрижка горячими ножницами",
+    "Свадебные и вечерние причёски",
+    "Наращивание гелем",
+    "Мужской маникюр",
+    "Детский маникюр",
+    "Гель-лак",
+    "Аппаратный маникюр",
+    "Коррекция бровей",
+    "Окрашивание бровей",
+    "Оплата картой",
+    "Наличный расчёт"
+  ],
+  "brand": {
+    "name": "Лотос, салон красоты",
+    "shortName": "Лотос",
+    "extension": "салон красоты",
+    "branchCount": 1,
+    "rating": null
+  },
+  "phoneText": [
+    "+7‒929‒570‒77‒73",
+    "+7‒963‒622‒26‒43"
+  ],
+  "phoneValue": [
+    "+79295707773",
+    "+79636222643"
+  ],
+  "email": null,
+  "website": null,
+  "socials": null,
+  "reviewsMeta": {
+    "branchId": "70000001109452497",
+    "branchRating": 0,
+    "branchReviewsCount": 0,
+    "totalCount": null,
+    "ratedCount": 0,
+    "unratedCount": 0,
+    "fetchedCount": 0,
+    "providers": [
+      {
+        "tag": "flamp",
+        "isReviewable": true
+      },
+      {
+        "tag": "2gis",
+        "isReviewable": true
+      },
+      {
+        "tag": "otello",
+        "isReviewable": true
+      },
+      {
+        "tag": "booking",
+        "isReviewable": true
+      },
+      {
+        "tag": "netmonet",
+        "isReviewable": true
+      },
+      {
+        "tag": "tbank",
+        "isReviewable": true
+      },
+      {
+        "tag": "sbertips",
+        "isReviewable": true
+      }
+    ],
+    "sortBy": "trust",
+    "ratings": "all",
+    "locale": "ru_RU"
+  },
+  "reviews": null,
+  "mediaMeta": {
+    "objectId": "70000001109452497",
+    "fetchedCount": 2,
+    "totalCount": 2,
+    "albums": [
+      {
+        "id": "all",
+        "name": "Все",
+        "count": 2
+      },
+      {
+        "id": "outside",
+        "name": "Снаружи",
+        "count": 2
+      },
+      {
+        "id": "entrance",
+        "name": "Вход",
+        "count": 1
+      }
+    ],
+    "locale": "ru_RU"
+  },
+  "media": [
+    {
+      "id": "30258560276068244",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/5bc428d0-9b32-4faf-bcb3-6ffb3e9f200b.jpg",
+      "width": 768,
+      "height": 1024,
+      "owner": null,
+      "creationTime": "2025-12-03T20:30:49+00:00",
+      "modificationTime": "2025-12-03T20:30:51+00:00"
+    },
+    {
+      "id": "30258560313597017",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/6952ec43-503f-47ad-afb2-bb342224adb5.jpg",
+      "width": 1440,
+      "height": 1920,
+      "owner": null,
+      "creationTime": "2026-05-13T13:56:57+00:00",
+      "modificationTime": "2026-05-13T13:56:58+00:00"
+    }
+  ],
+  "searchString": "лотос салон красоты",
+  "searchUrl": "https://2gis.ru/search/%D0%BB%D0%BE%D1%82%D0%BE%D1%81%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B/filters/bound?m=38.111959%2C55.569369%2F12",
+  "pageNumber": 1,
+  "scrapedAt": "2026-07-03T17:08:25.897Z"
+},
+{
+  "id": "70000001033098663",
+  "objectType": "branch",
+  "title": "Лотос, студия красоты",
+  "shortName": "Лотос",
+  "extension": "студия красоты",
+  "url": "https://2gis.ru/reutov/firm/70000001033098663",
+  "rubrics": [
+    "Ногтевые студии",
+    "Косметолог",
+    "Парикмахерские",
+    "Эпиляция"
+  ],
+  "category": "manicure",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "ratingCount": 2,
+  "summary": null,
+  "description": null,
+  "postcode": "143968",
+  "addressComment": "1 этаж",
+  "country": "Россия",
+  "region": "Московская область",
+  "city": "Реутов",
+  "district": null,
+  "living_area": "6а м-н",
+  "street": "улица Реутовских ополченцев",
+  "houseNumber": "10",
+  "address": "улица Реутовских ополченцев, 10",
+  "badges": null,
+  "createdAt": null,
+  "updatedAt": "2025-10-16T18:22:00Z",
+  "timezoneOffset": 180,
+  "mainPhotoUrl": "https://i3.photo.2gis.com/main/branch/32/70000001033098663/common",
+  "location": {
+    "lat": 55.774211,
+    "lng": 37.846233
+  },
+  "working_hours": {
+    "Fri": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Mon": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Sat": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Sun": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Thu": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Tue": {
+      "from": "10:00",
+      "to": "21:00"
+    },
+    "Wed": {
+      "from": "10:00",
+      "to": "21:00"
+    }
+  },
+  "scheduleSpecial": null,
+  "nearestStations": [
+    {
+      "name": "Реутовских ополченцев",
+      "distance": 420,
+      "comment": null
+    }
+  ],
+  "attributeGroups": [
+    "Инъекционные процедуры",
+    "Удаление новообразований",
+    "Жен.стрижка от 2500 ₽",
+    "Муж.стрижка от 1500 ₽",
+    "Детская стрижка",
+    "Стрижка бороды",
+    "Сложное окрашивание",
+    "Свадебные и вечерние причёски",
+    "Женский педикюр",
+    "Наращивание гелем",
+    "Наращивание акрилом",
+    "Мужской маникюр",
+    "Гель-лак",
+    "Аппаратный маникюр",
+    "Мужской педикюр",
+    "Лазерная эпиляция",
+    "Wi-Fi для клиентов",
+    "Оплата картой",
+    "Наличный расчёт",
+    "Оплата по QR-коду",
+    "Пандус"
+  ],
+  "brand": {
+    "name": "Лотос, студия красоты",
+    "shortName": "Лотос",
+    "extension": "студия красоты",
+    "branchCount": 1,
+    "rating": {
+      "score": 5,
+      "reviews": 2
+    }
+  },
+  "phoneText": [
+    "+7 (495) 665‒84‒45",
+    "+7‒926‒273‒02‒38"
+  ],
+  "phoneValue": [
+    "+74956658445",
+    "+79262730238"
+  ],
+  "email": null,
+  "website": [
+    "http://www.lotos-reutov.com"
+  ],
+  "socials": {
+    "telegram": [
+      "https://t.me/+79262730238"
+    ],
+    "whatsapp": [
+      "https://wa.me/79262730238"
+    ]
+  },
+  "reviewsMeta": {
+    "branchId": "70000001033098663",
+    "branchRating": 5,
+    "branchReviewsCount": 1,
+    "totalCount": 1,
+    "ratedCount": 1,
+    "unratedCount": 0,
+    "fetchedCount": 1,
+    "providers": [
+      {
+        "tag": "flamp",
+        "isReviewable": true
+      },
+      {
+        "tag": "2gis",
+        "isReviewable": true
+      },
+      {
+        "tag": "otello",
+        "isReviewable": true
+      },
+      {
+        "tag": "booking",
+        "isReviewable": true
+      },
+      {
+        "tag": "netmonet",
+        "isReviewable": true
+      },
+      {
+        "tag": "tbank",
+        "isReviewable": true
+      },
+      {
+        "tag": "sbertips",
+        "isReviewable": true
+      }
+    ],
+    "sortBy": "trust",
+    "ratings": "all",
+    "locale": "ru_RU"
+  },
+  "reviews": [
+    {
+      "id": "50478531",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Хороший, чистый салон. Приятный персонал ",
+      "dateCreated": "2023-05-01T23:12:23.539497+07:00",
+      "dateEdited": "2023-05-01T23:12:40.413305+07:00",
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    }
+  ],
+  "mediaMeta": {
+    "objectId": "70000001033098663",
+    "fetchedCount": 67,
+    "totalCount": 67,
+    "albums": [
+      {
+        "id": "all",
+        "name": "Все",
+        "count": 67
+      },
+      {
+        "id": "video",
+        "name": "Видео",
+        "count": 7
+      },
+      {
+        "id": "outside",
+        "name": "Снаружи",
+        "count": 2
+      },
+      {
+        "id": "interior",
+        "name": "Внутри",
+        "count": 8
+      },
+      {
+        "id": "price_list_image",
+        "name": "Цены",
+        "count": 3
+      },
+      {
+        "id": "services",
+        "name": "Услуги",
+        "count": 38
+      },
+      {
+        "id": "inventory",
+        "name": "Инвентарь",
+        "count": 3
+      },
+      {
+        "id": "staff",
+        "name": "Сотрудники",
+        "count": 2
+      },
+      {
+        "id": "owner",
+        "name": "От владельца",
+        "count": 41
+      },
+      {
+        "id": "user",
+        "name": "От пользователей",
+        "count": 3
+      }
+    ],
+    "locale": "ru_RU"
+  },
+  "media": [
+    {
+      "id": "30258560251421632",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/c431cc7a-5ac7-4271-a494-6d086794fd1e.jpg",
+      "width": 1440,
+      "height": 1800,
+      "owner": null,
+      "creationTime": "2025-08-03T19:59:04+00:00",
+      "modificationTime": "2025-08-03T23:51:32+00:00"
+    },
+    {
+      "id": "30258560269393639",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/435f165f-b028-4423-8fac-718c3f62de83.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 28,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/435f165f-b028-4423-8fac-718c3f62de83.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/5eecf6293d59af7af85c28db8d2455788ef91907/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/5eecf6293d59af7af85c28db8d2455788ef91907/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-10-28T03:13:34+00:00",
+      "modificationTime": "2025-10-28T03:15:50+00:00"
+    },
+    {
+      "id": "30258560086361769",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560086361769_a711.jpg",
+      "width": 1080,
+      "height": 1350,
+      "owner": null,
+      "creationTime": "2022-03-08T13:02:24+00:00",
+      "modificationTime": "2022-08-25T18:04:01+00:00"
+    },
+    {
+      "id": "30258560119336207",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560119336207_f53e.jpg",
+      "width": 1200,
+      "height": 1600,
+      "owner": null,
+      "creationTime": "2023-09-23T14:29:32+00:00",
+      "modificationTime": "2023-09-23T15:05:49+00:00"
+    },
+    {
+      "id": "30258560120489408",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560120489408_6448.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-09-25T12:32:16+00:00",
+      "modificationTime": "2023-09-25T13:09:36+00:00"
+    },
+    {
+      "id": "30258560118850206",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/0/30258560118850206_92d3.jpg",
+      "width": 1680,
+      "height": 1680,
+      "owner": null,
+      "creationTime": "2023-09-23T09:00:06+00:00",
+      "modificationTime": "2023-09-23T09:00:20+00:00"
+    },
+    {
+      "id": "30258560120354740",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560120354740_7a3d.jpg",
+      "width": 768,
+      "height": 1024,
+      "owner": null,
+      "creationTime": "2023-09-25T11:54:22+00:00",
+      "modificationTime": "2023-09-25T11:58:22+00:00"
+    },
+    {
+      "id": "30258560128446763",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560128446763_b0eb.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2023-10-10T03:44:24+00:00",
+      "modificationTime": "2023-10-10T04:55:38+00:00"
+    },
+    {
+      "id": "30258560124321662",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560124321662_3906.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-10-02T18:15:11+00:00",
+      "modificationTime": "2023-10-02T19:00:26+00:00"
+    },
+    {
+      "id": "30258560122460559",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560122460559_5fce.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2023-09-27T10:09:33+00:00",
+      "modificationTime": "2023-09-27T12:53:01+00:00"
+    },
+    {
+      "id": "30258560124546601",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560124546601_cf11.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-10-02T22:34:18+00:00",
+      "modificationTime": "2023-10-02T23:53:36+00:00"
+    },
+    {
+      "id": "30258560249745059",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/01fda4c0-7b1b-4158-99b7-5e71ffeb5bba.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2025-08-01T07:08:56+00:00",
+      "modificationTime": "2025-08-01T07:12:02+00:00"
+    },
+    {
+      "id": "30258560249148803",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/photo-gallery/eebb2efc-bf23-4156-8645-5b8ebfebbd4f.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2025-07-31T10:19:07+00:00",
+      "modificationTime": "2025-07-31T10:20:04+00:00"
+    },
+    {
+      "id": "30258560125191963",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/0/30258560125191963_9a79.jpg",
+      "width": 700,
+      "height": 933,
+      "owner": null,
+      "creationTime": "2023-10-04T07:06:57+00:00",
+      "modificationTime": "2023-10-04T07:07:43+00:00"
+    },
+    {
+      "id": "30258560253512115",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/d23b6b3f-e08a-4cef-98f2-b5351227556a.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 43,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/d23b6b3f-e08a-4cef-98f2-b5351227556a.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/776d34007ea105ec614787029ea90f4513b0a3eb/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/776d34007ea105ec614787029ea90f4513b0a3eb/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-08-09T03:25:11+00:00",
+      "modificationTime": "2025-08-09T03:27:16+00:00"
+    },
+    {
+      "id": "30258560124688838",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/0/30258560124688838_fef0.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2023-10-03T00:59:20+00:00",
+      "modificationTime": "2023-10-03T00:59:49+00:00"
+    },
+    {
+      "id": "30258560086509040",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560086509040_4b9f.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2022-04-05T09:01:01+00:00",
+      "modificationTime": "2022-08-25T21:26:29+00:00"
+    },
+    {
+      "id": "30258560243911845",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/6a4f618e-2d47-47ca-aed4-b5cdddfb0aaa.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 25,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/6a4f618e-2d47-47ca-aed4-b5cdddfb0aaa.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/80338a12-c2a5-4f54-bc68-149877758eb9-2gis-ugc-vod-transcoded/sdr-2-sdr/f3dc073475e270e5b910b6d659a4e4528539450b/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/80338a12-c2a5-4f54-bc68-149877758eb9-2gis-ugc-vod-transcoded/sdr-2-sdr/f3dc073475e270e5b910b6d659a4e4528539450b/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-07-04T06:09:09+00:00",
+      "modificationTime": "2025-07-04T06:11:32+00:00"
+    },
+    {
+      "id": "30258560081654119",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560081654119_458a.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2022-02-25T08:16:45+00:00",
+      "modificationTime": "2022-08-16T10:56:21+00:00"
+    },
+    {
+      "id": "4503599659657255",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/images/branch/32/4503599659657255_9246.jpg",
+      "width": 900,
+      "height": 1200,
+      "owner": null,
+      "creationTime": "2018-08-09T09:28:20+00:00",
+      "modificationTime": "2018-08-16T04:45:47+00:00"
+    },
+    {
+      "id": "4503599659657257",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/images/branch/32/4503599659657257_8e12.jpg",
+      "width": 1280,
+      "height": 960,
+      "owner": null,
+      "creationTime": "2018-08-09T09:28:23+00:00",
+      "modificationTime": "2018-08-16T04:45:48+00:00"
+    },
+    {
+      "id": "30258560123250381",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560123250381_5174.jpg",
+      "width": 960,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2023-09-28T02:22:37+00:00",
+      "modificationTime": "2023-09-28T02:23:03+00:00"
+    },
+    {
+      "id": "30258560124542691",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/images/branch/0/30258560124542691_68f5.jpg",
+      "width": 720,
+      "height": 895,
+      "owner": null,
+      "creationTime": "2023-10-02T22:30:01+00:00",
+      "modificationTime": "2023-10-02T23:51:37+00:00"
+    },
+    {
+      "id": "4503599659657251",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/32/4503599659657251_f20c.jpg",
+      "width": 900,
+      "height": 1200,
+      "owner": null,
+      "creationTime": "2018-08-09T09:28:18+00:00",
+      "modificationTime": "2018-08-16T04:45:44+00:00"
+    },
+    {
+      "id": "30258560128569959",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/images/branch/0/30258560128569959_44a1.jpg",
+      "width": 828,
+      "height": 1088,
+      "owner": null,
+      "creationTime": "2023-10-10T07:37:11+00:00",
+      "modificationTime": "2023-10-10T07:38:52+00:00"
+    },
+    {
+      "id": "30258560129560171",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/images/branch/0/30258560129560171_5524.jpg",
+      "width": 700,
+      "height": 933,
+      "owner": null,
+      "creationTime": "2023-10-12T05:51:31+00:00",
+      "modificationTime": "2023-10-12T05:51:59+00:00"
+    },
+    {
+      "id": "30258560239281077",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/5ee9f384-6767-4ee4-877a-8f3499b835cd.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 12,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/5ee9f384-6767-4ee4-877a-8f3499b835cd.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/80338a12-c2a5-4f54-bc68-149877758eb9-2gis-ugc-vod-transcoded/sdr-2-sdr/f5efe6b466683389a84a05194e2e5c8bb093a408/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/80338a12-c2a5-4f54-bc68-149877758eb9-2gis-ugc-vod-transcoded/sdr-2-sdr/f5efe6b466683389a84a05194e2e5c8bb093a408/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-06-08T11:00:49+00:00",
+      "modificationTime": "2025-06-08T11:02:52+00:00"
+    },
+    {
+      "id": "30258560124383537",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560124383537_f6a9.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-10-02T18:49:06+00:00",
+      "modificationTime": "2023-10-02T21:11:39+00:00"
+    },
+    {
+      "id": "30258560250391880",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/e7d23665-8015-437f-8775-ff0d49ff02de.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2025-08-02T06:32:54+00:00",
+      "modificationTime": "2025-08-02T07:22:08+00:00"
+    },
+    {
+      "id": "30258560121146745",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560121146745_9785.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-09-26T10:53:32+00:00",
+      "modificationTime": "2023-09-26T11:35:17+00:00"
+    },
+    {
+      "id": "30258560122772816",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560122772816_43d5.jpg",
+      "width": 700,
+      "height": 933,
+      "owner": null,
+      "creationTime": "2023-09-27T11:19:21+00:00",
+      "modificationTime": "2023-09-27T16:05:17+00:00"
+    },
+    {
+      "id": "30258560080542680",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560080542680_894a.jpg",
+      "width": 720,
+      "height": 899,
+      "owner": null,
+      "creationTime": "2022-04-16T10:31:40+00:00",
+      "modificationTime": "2022-08-15T17:52:47+00:00"
+    },
+    {
+      "id": "30258560126727253",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560126727253_f86f.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-10-06T08:13:03+00:00",
+      "modificationTime": "2023-10-06T08:34:53+00:00"
+    },
+    {
+      "id": "30258560081370774",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560081370774_05a1.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2022-04-04T13:15:36+00:00",
+      "modificationTime": "2022-08-16T04:42:40+00:00"
+    },
+    {
+      "id": "30258560082012795",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/images/branch/0/30258560082012795_9dd4.jpg",
+      "width": 720,
+      "height": 900,
+      "owner": null,
+      "creationTime": "2022-04-18T14:22:07+00:00",
+      "modificationTime": "2022-08-16T16:33:45+00:00"
+    },
+    {
+      "id": "30258560128492260",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/images/branch/0/30258560128492260_da69.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-10-10T05:09:05+00:00",
+      "modificationTime": "2023-10-10T06:05:43+00:00"
+    },
+    {
+      "id": "30258560252634350",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/76edfb71-9adc-4d3c-b8da-b42a332b3ddc.jpg",
+      "width": 1440,
+      "height": 1800,
+      "owner": null,
+      "creationTime": "2025-08-05T14:52:40+00:00",
+      "modificationTime": "2025-08-05T15:43:14+00:00"
+    },
+    {
+      "id": "30258560121225111",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/0/30258560121225111_607d.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2023-09-26T11:21:45+00:00",
+      "modificationTime": "2023-09-26T12:30:12+00:00"
+    },
+    {
+      "id": "4503599659656919",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/32/4503599659656919_9a79.jpg",
+      "width": 900,
+      "height": 1200,
+      "owner": null,
+      "creationTime": "2018-08-09T09:25:27+00:00",
+      "modificationTime": "2018-08-16T04:45:41+00:00"
+    },
+    {
+      "id": "30258560084815056",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/images/branch/0/30258560084815056_f6a9.jpg",
+      "width": 1080,
+      "height": 1350,
+      "owner": null,
+      "creationTime": "2022-02-18T13:57:51+00:00",
+      "modificationTime": "2022-08-18T17:23:08+00:00"
+    },
+    {
+      "id": "30258560124729564",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560124729564_b9e6.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2023-10-03T01:44:13+00:00",
+      "modificationTime": "2023-10-03T01:44:29+00:00"
+    },
+    {
+      "id": "30258560127625544",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560127625544_c830.jpg",
+      "width": 3024,
+      "height": 4032,
+      "owner": null,
+      "creationTime": "2023-10-09T09:12:13+00:00",
+      "modificationTime": "2023-10-09T10:39:40+00:00"
+    },
+    {
+      "id": "30258560129159881",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/0/30258560129159881_8bd4.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-10-11T20:30:21+00:00",
+      "modificationTime": "2023-10-11T20:31:03+00:00"
+    },
+    {
+      "id": "30258560120354712",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560120354712_46bc.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-09-25T11:54:22+00:00",
+      "modificationTime": "2023-09-25T11:57:54+00:00"
+    },
+    {
+      "id": "30258560123045316",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560123045316_dd67.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2023-09-28T00:14:07+00:00",
+      "modificationTime": "2023-09-28T00:14:15+00:00"
+    },
+    {
+      "id": "30258560124739042",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560124739042_3e24.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-10-03T01:54:28+00:00",
+      "modificationTime": "2023-10-03T02:00:27+00:00"
+    },
+    {
+      "id": "30258560124579907",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/0/30258560124579907_c067.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2023-10-02T23:07:18+00:00",
+      "modificationTime": "2023-10-02T23:08:06+00:00"
+    },
+    {
+      "id": "30258560079461937",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/0/30258560079461937_1449.jpg",
+      "width": 3120,
+      "height": 4160,
+      "owner": null,
+      "creationTime": "2022-08-02T23:03:51+00:00",
+      "modificationTime": "2022-08-02T23:03:52+00:00"
+    },
+    {
+      "id": "30258560125381690",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/images/branch/0/30258560125381690_582c.jpg",
+      "width": 1680,
+      "height": 2520,
+      "owner": null,
+      "creationTime": "2023-10-04T10:33:47+00:00",
+      "modificationTime": "2023-10-04T10:36:40+00:00"
+    },
+    {
+      "id": "4503599659656924",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/32/4503599659656924_84a1.jpg",
+      "width": 900,
+      "height": 1200,
+      "owner": null,
+      "creationTime": "2018-08-09T09:25:29+00:00",
+      "modificationTime": "2018-08-16T04:45:42+00:00"
+    },
+    {
+      "id": "30258560252362816",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/photo-gallery/24375450-9725-4eeb-b424-a3e2498888a2.jpg",
+      "width": 2168,
+      "height": 2168,
+      "owner": null,
+      "creationTime": "2025-08-05T06:26:25+00:00",
+      "modificationTime": "2025-08-05T07:48:12+00:00"
+    },
+    {
+      "id": "30258560121908461",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560121908461_1c4b.jpg",
+      "width": 1536,
+      "height": 2048,
+      "owner": null,
+      "creationTime": "2023-09-27T00:13:51+00:00",
+      "modificationTime": "2023-09-27T00:14:06+00:00"
+    },
+    {
+      "id": "30258560247318003",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/0b196eac-127b-4b32-b8fc-4beceb868902.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 33,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/0b196eac-127b-4b32-b8fc-4beceb868902.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/21a42a8d82ffd507a46d8a4ddf6a15b00f74543f/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/21a42a8d82ffd507a46d8a4ddf6a15b00f74543f/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-07-23T15:07:22+00:00",
+      "modificationTime": "2025-07-23T15:09:19+00:00"
+    },
+    {
+      "id": "30258560252141661",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/4b3e1420-409c-4ec5-b146-82eb6cbd9b83.jpg",
+      "width": 1440,
+      "height": 1800,
+      "owner": null,
+      "creationTime": "2025-08-04T21:27:08+00:00",
+      "modificationTime": "2025-08-05T00:33:45+00:00"
+    },
+    {
+      "id": "30258560269997950",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/b464eed6-2ce7-47f3-b494-7636a711a343.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 14,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/b464eed6-2ce7-47f3-b494-7636a711a343.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/d3cef5a599bfb7ed8b33c4a5c06482c448998dc6/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/d3cef5a599bfb7ed8b33c4a5c06482c448998dc6/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-10-30T22:15:19+00:00",
+      "modificationTime": "2025-10-30T22:17:50+00:00"
+    },
+    {
+      "id": "4503599659657439",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/32/4503599659657439_4633.jpg",
+      "width": 900,
+      "height": 1200,
+      "owner": null,
+      "creationTime": "2018-08-09T09:29:49+00:00",
+      "modificationTime": "2018-08-16T04:45:50+00:00"
+    },
+    {
+      "id": "30258560254183777",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/51c0f43c-fc0c-42ad-ba80-b18e0f755127.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 32,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/51c0f43c-fc0c-42ad-ba80-b18e0f755127.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/b6b16fe0e0f23a8d6a621bae4832d772869182fc/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/b6b16fe0e0f23a8d6a621bae4832d772869182fc/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-08-13T00:52:10+00:00",
+      "modificationTime": "2025-08-13T03:10:58+00:00"
+    },
+    {
+      "id": "4503599659657433",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/32/4503599659657433_ad12.jpg",
+      "width": 1280,
+      "height": 960,
+      "owner": null,
+      "creationTime": "2018-08-09T09:29:47+00:00",
+      "modificationTime": "2018-08-16T04:45:49+00:00"
+    },
+    {
+      "id": "30258560119481218",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560119481218_336b.jpg",
+      "width": 1198,
+      "height": 1600,
+      "owner": null,
+      "creationTime": "2023-09-23T21:28:39+00:00",
+      "modificationTime": "2023-09-23T21:29:16+00:00"
+    },
+    {
+      "id": "30258560129158911",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560129158911_967f.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-10-11T20:28:56+00:00",
+      "modificationTime": "2023-10-11T20:29:28+00:00"
+    },
+    {
+      "id": "30258560126150319",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560126150319_3833.jpg",
+      "width": 1680,
+      "height": 2240,
+      "owner": null,
+      "creationTime": "2023-10-05T10:40:40+00:00",
+      "modificationTime": "2023-10-05T14:31:47+00:00"
+    },
+    {
+      "id": "4503599659657260",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/32/4503599659657260_f6c6.jpg",
+      "width": 1280,
+      "height": 960,
+      "owner": null,
+      "creationTime": "2018-08-09T09:28:25+00:00",
+      "modificationTime": "2018-08-16T04:45:48+00:00"
+    },
+    {
+      "id": "30258560125716595",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560125716595_ab88.jpg",
+      "width": 1536,
+      "height": 2048,
+      "owner": null,
+      "creationTime": "2023-10-04T12:47:07+00:00",
+      "modificationTime": "2023-10-04T16:22:55+00:00"
+    },
+    {
+      "id": "30258560288737955",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/photo-gallery/dd39ad12-63cb-45c7-be3d-5423fe73db31.jpg",
+      "width": 882,
+      "height": 1186,
+      "owner": {
+        "id": "70757685",
+        "name": "Евгения Рыкова",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2026-02-03T11:59:11+00:00",
+      "modificationTime": "2026-02-03T12:23:04+00:00"
+    },
+    {
+      "id": "30258560288737948",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/855bf646-3961-4b0a-8c35-73c848c6bd35.jpg",
+      "width": 879,
+      "height": 1186,
+      "owner": {
+        "id": "70757685",
+        "name": "Евгения Рыкова",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2026-02-03T11:59:09+00:00",
+      "modificationTime": "2026-02-03T11:59:15+00:00"
+    },
+    {
+      "id": "30258560288737939",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/photo-gallery/9941f065-5988-4ee4-8278-aa7c9a3aa5a7.jpg",
+      "width": 861,
+      "height": 1150,
+      "owner": {
+        "id": "70757685",
+        "name": "Евгения Рыкова",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2026-02-03T11:59:07+00:00",
+      "modificationTime": "2026-02-03T11:59:10+00:00"
+    },
+    {
+      "id": "30258560166571938",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/geo/0/30258560166571938_63a2.jpg",
+      "width": 3000,
+      "height": 4000,
+      "owner": null,
+      "creationTime": "2023-12-28T20:08:43+00:00",
+      "modificationTime": "2023-12-28T20:08:44+00:00"
+    }
+  ],
+  "searchString": "лотос салон красоты",
+  "searchUrl": "https://2gis.ru/search/%D0%BB%D0%BE%D1%82%D0%BE%D1%81%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B/filters/bound?m=38.111959%2C55.569369%2F12",
+  "pageNumber": 1,
+  "scrapedAt": "2026-07-03T17:08:29.498Z"
+},
+{
+  "id": "70000001039624768",
+  "objectType": "branch",
+  "title": "Лотос, центр эстетической косметологии и медицины",
+  "shortName": "Лотос",
+  "extension": "центр эстетической косметологии и медицины",
+  "url": "https://2gis.ru/moscow/firm/70000001039624768",
+  "rubrics": [
+    "Косметолог",
+    "Эпиляция",
+    "Массажист",
+    "Гинеколог",
+    "Оформление бровей и ресниц",
+    "Услуги пирсинга",
+    "Перманентный макияж"
+  ],
+  "category": "health",
+  "totalScore": 4.6,
+  "reviewsCount": 40,
+  "ratingCount": 41,
+  "summary": null,
+  "description": null,
+  "postcode": "125315",
+  "addressComment": null,
+  "country": "Россия",
+  "region": "Москва",
+  "city": "Москва",
+  "district": "Аэропорт",
+  "living_area": null,
+  "street": "улица Усиевича",
+  "houseNumber": "27 к1",
+  "address": "улица Усиевича, 27 к1",
+  "badges": null,
+  "createdAt": null,
+  "updatedAt": "2026-06-18T08:23:50Z",
+  "timezoneOffset": 180,
+  "mainPhotoUrl": "https://i4.photo.2gis.com/main/branch/32/70000001039624768/common",
+  "location": {
+    "lat": 55.807158,
+    "lng": 37.520842
+  },
+  "working_hours": {
+    "Fri": {
+      "from": "10:00",
+      "to": "22:00"
+    },
+    "Mon": {
+      "from": "10:00",
+      "to": "22:00"
+    },
+    "Sat": {
+      "from": "10:00",
+      "to": "22:00"
+    },
+    "Sun": {
+      "from": "10:00",
+      "to": "22:00"
+    },
+    "Thu": {
+      "from": "10:00",
+      "to": "22:00"
+    },
+    "Tue": {
+      "from": "10:00",
+      "to": "22:00"
+    },
+    "Wed": {
+      "from": "10:00",
+      "to": "22:00"
+    }
+  },
+  "scheduleSpecial": null,
+  "nearestStations": [
+    {
+      "name": "Сокол",
+      "distance": 500,
+      "comment": "Замоскворецкая линия"
+    },
+    {
+      "name": "Красный Балтиец",
+      "distance": 950,
+      "comment": "D2 Курско-Рижский диаметр"
+    },
+    {
+      "name": "Аэропорт",
+      "distance": 1200,
+      "comment": "Замоскворецкая линия"
+    }
+  ],
+  "attributeGroups": [
+    "Гинеколог-эндокринолог",
+    "Дерматокосметолог",
+    "Лазерная косметология",
+    "Инъекционные процедуры",
+    "Аппаратная косметология",
+    "Удаление новообразований",
+    "Чистка лица",
+    "Криокосметология",
+    "Озонотерапия / Карбокситерапия",
+    "Пилинги",
+    "Удаление перманента",
+    "Тайский массаж",
+    "Аппаратный массаж",
+    "Массаж лица",
+    "Детский массаж",
+    "Оздоровительный массаж",
+    "Антицеллюлитный массаж",
+    "Релаксирующий массаж",
+    "Лимфодренаж",
+    "Спортивный массаж",
+    "Коррекция бровей",
+    "Окрашивание бровей",
+    "Ламинирование бровей",
+    "Лазерная эпиляция",
+    "Лазерная александритовая эпиляция",
+    "Шугаринг",
+    "Восковая эпиляция",
+    "Классический прокол уха",
+    "Пирсинг носа",
+    "Пирсинг пупка",
+    "Пирсинг языка",
+    "Пирсинг септум",
+    "Wi-Fi для клиентов",
+    "Оплата картой",
+    "Наличный расчёт",
+    "Перевод с карты",
+    "Пандус",
+    "Вызов персонала"
+  ],
+  "brand": {
+    "name": "Лотос, центр эстетической косметологии и медицины",
+    "shortName": "Лотос",
+    "extension": "центр эстетической косметологии и медицины",
+    "branchCount": 1,
+    "rating": {
+      "score": 4.6,
+      "reviews": 41
+    }
+  },
+  "phoneText": [
+    "+7 (499) 151‒58‒16",
+    "+7‒925‒000‒07‒89"
+  ],
+  "phoneValue": [
+    "+74991515816",
+    "+79250000789"
+  ],
+  "email": null,
+  "website": [
+    "http://lotus-laser.ru"
+  ],
+  "socials": {
+    "vk": [
+      "https://vk.com/lotuslaser"
+    ],
+    "telegram": [
+      "https://t.me/+79250000789"
+    ],
+    "whatsapp": [
+      "https://wa.me/79250000789"
+    ]
+  },
+  "reviewsMeta": {
+    "branchId": "70000001039624768",
+    "branchRating": 4.6,
+    "branchReviewsCount": 40,
+    "totalCount": 40,
+    "ratedCount": 40,
+    "unratedCount": null,
+    "fetchedCount": 20,
+    "providers": [
+      {
+        "tag": "flamp",
+        "isReviewable": true
+      },
+      {
+        "tag": "2gis",
+        "isReviewable": true
+      },
+      {
+        "tag": "otello",
+        "isReviewable": true
+      },
+      {
+        "tag": "booking",
+        "isReviewable": true
+      },
+      {
+        "tag": "netmonet",
+        "isReviewable": true
+      },
+      {
+        "tag": "tbank",
+        "isReviewable": true
+      },
+      {
+        "tag": "sbertips",
+        "isReviewable": true
+      }
+    ],
+    "sortBy": "trust",
+    "ratings": "all",
+    "locale": "ru_RU"
+  },
+  "reviews": [
+    {
+      "id": "236633576",
+      "provider": "2gis",
+      "rating": 1,
+      "text": "По купону с Biglion точно нет смысла идти, деньги на ветер, сказать, что разочарована - ничего не сказать, я в шоке. 14 тысяч рублей. Перед процедурой сразу дали понять, что по купону аппарат один, без - другой. Да, ок. Но чтобы ВООБЩЕ никакого эффекта не было, даже лицо не покраснело, и это после МИКРОИГОЛЬЧАТОГО rf лифтинга. Как так… такой обдираловки со стороны косметологии я еще не видела, хотя видела всякое. Уговорили на АНЕСТЕЗИЮ за 1000 р - вообще что ли с ума сошли..? Отдельно надо сказать про помещение - старое, ремонт плачет по нему. Вообщем, девочки, обходим стороной.",
+      "dateCreated": "2026-04-17T15:09:17.402279+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "145318381",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Пользуюсь услугами Лотоса много лет. Очень приятное место. Хожу к Полине Дмитриевне. Высочайший профессионализм и замечательный человек.",
+      "dateCreated": "2025-03-15T01:37:36.922525+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "121176576",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Одна из лучших клиник в столице. Здесь работают люди , любящие и знающие свое дело, внимательны к пациентам, дают профессиональные консультации.",
+      "dateCreated": "2024-11-10T17:11:18.499739+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "90673627",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Посещаю клинику давно, широкий спектр услуг, квалифицированные врачи. Уровень и качество услуг на высшем уровне, чистота и порядок, приятный администратор, всегда подберёт нужное и удобное время для записи❤️",
+      "dateCreated": "2024-07-15T15:08:40.344784+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "88114329",
+      "provider": "2gis",
+      "rating": 4,
+      "text": "Наира прямо классный косметолог, советую, от души такая женщина, максимально приятная.\nМужчина хирург тоже крутой 😎 \n\nОстальные - не советую. Сильно не советую. ",
+      "dateCreated": "2024-06-26T05:08:33.860839+07:00",
+      "dateEdited": "2024-06-26T05:09:31.635082+07:00",
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "90639178",
+      "provider": "2gis",
+      "rating": 1,
+      "text": "Не ходите сюда. Пришла снять пирсинг, процедура совершенно безболезненная, но было больнее чем прокалывать. И взяли за это 1.3к. Ладно бы сняли хорошо, но знала бы что так будет и бесплатно бы не пошла! ☺️",
+      "dateCreated": "2024-07-15T05:16:00.70029+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "78896543",
+      "provider": "2gis",
+      "rating": 1,
+      "text": "Косметолог Полина. Была на процедуре Ботокс, оплатила 44 единицы. Нет результата вообще! Вместо ботокса видимо колола физ раствор или создавала видимость, что вводит препарат. А сначала говорила, что хватит 30 единиц, после того, как я сказала, что доплачу, если 30 ед не хватит, то мне сразу посчитали 44. Больше ни ногой в это место. Обман.",
+      "dateCreated": "2024-04-12T20:43:31.021978+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 1,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": [
+        {
+          "id": "green_heart",
+          "emoji": null,
+          "count": 1
+        }
+      ],
+      "trustFactors": null
+    },
+    {
+      "id": "67420476",
+      "provider": "2gis",
+      "rating": 5,
+      "text": "Сегодня был у хирурга Азиза. \nОчень приятный врач, который знает свое дело. Огромное ему спасибо за профессионализм. \nТак же хочу поблагодарить администратора и врача-косметолога за теплый прием и консультацию. \nВсем советую категорически.",
+      "dateCreated": "2023-12-09T18:59:34.367107+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "61767388",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Я обслуживаюсь у Натальи, мне нравится ее отношение, дружелюбность, внимание! Учитывает все мои пожелания, не навязывает лишних процедур. Очень уютная, доброжелательная атмосфера, приятно находиться, хочется приходить снова и снова, очень отзывчивый персонал.",
+      "dateCreated": "2023-10-05T22:59:59.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "61669640",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Наира - деликатный и профессиональный косметолог. Мне нравится результат выполненного массажа лица, оно стало более красивым, ушли отёки. Отдохнувшее лицо я получила сразу же после первого сеанса!",
+      "dateCreated": "2023-10-04T23:19:54.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "61573170",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Мне подарили сертификат на услугу в клинике. Инъекционная процедура, которую сделали специалисты центра, мне понравилась. Врач во время приёма проявил себя хорошо. Эффект получился замечательный.",
+      "dateCreated": "2023-10-03T17:35:05.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "61281549",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Предпочитаю пользоваться лазерной эпиляцией. По окончанию процедуры мастер всегда говорит, что можно и нужно делать, что нет, когда приходить в следующий раз. Специалист компетентная, комфортная в общении. Уже давно хожу в центр, устраивает именно мастер Галина. Ее рабочее место и оборудование в прекрасном состоянии, удобном, кабинет чистый.",
+      "dateCreated": "2023-09-29T14:18:42.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "61199593",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Записывалась на приём через FITMOST. Массаж лица был прекрасен. Косметолог очень доброжелательный, делал всё мягко, мне понравилось. Единственное, после процедуры я поняла, что данный вид массажа мне не подходит, так как после кремов и масел у меня начинается высыпание.",
+      "dateCreated": "2023-09-28T12:28:48.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "61142956",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Все сделали хорошо, в комплекс услуг входила коррекция и окрашивание бровей. Мастер нормально подобрала цвет, правильно, как я и сказала. Она хорошая, быстро и качественно оказала услугу. Я посещаю центр раз в месяц, выбираю его из-за предоставленных услуг и удобного расположения.",
+      "dateCreated": "2023-09-27T16:03:29.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "61065577",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Меня без задержек приняли, понравилось, как все объяснили и рассказали. В центре доктора - хорошие профессионалы, которые превзошли мои ожидания. Косметолог выполнила мне комбинированную чистку лица, я прихожу раз в полгода.",
+      "dateCreated": "2023-09-26T15:04:30.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "60868073",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Центр я посещаю уже пять лет, всем очень довольна. При последнем обращении косметолог провела мне процедуру ботокса. Всех докторов клиники я могу рекомендовать за их профессионализм, они делают свою работу отлично, прислушиваются к пожеланиям клиента, проводят процедуры безболезненно.",
+      "dateCreated": "2023-09-23T15:44:36.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "60691625",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Мастер хороший, я к ней второй раз попадаю, она замечательно все делает, быстро, видно, что у нее поставлена рука. Была услуга лазерной эпиляции. Эффект мне понравился. Обстановка устроила, было комфортно находиться. Центр нашла в интернете.",
+      "dateCreated": "2023-09-20T23:41:28.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "60625522",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Я приходила на чистку лица в центр. Работу мастера выполнили хорошо, посоветовали мне множество всяких средств, сделали все, что мне нужно, поэтому меня все устроило.",
+      "dateCreated": "2023-09-20T01:46:56.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "60512848",
+      "provider": "flamp",
+      "rating": 5,
+      "text": "Хожу на курс лазерной эпиляции по абонементу со скидкой. К специалистам у меня претензий никаких нет. Аппаратура находится в рабочем состоянии. Территориальное расположение меня устраивает.",
+      "dateCreated": "2023-09-18T17:46:13.0+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 0,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": null,
+      "trustFactors": null
+    },
+    {
+      "id": "60433635",
+      "provider": "2gis",
+      "rating": 1,
+      "text": "Геллада самая проф пригодная в этом коллективе . Я пришла к ней после того как эпиляцию бикини ко мне поставили делать стажора и сожгли мне на ноге большую родинку . Она адекватно относилась к моему страху и лояльно делала такую интимную процедуру . Девочки записывая даже не спрашивают к кому записать . Записывают на болезненную эпиляцию к разным мастерам . Я попала к девушке которая даже не сказала свое имя на мое возмущение что мне поменяли мастера попросила высказывать это не ей а на ресепшене.и потом стояла на ресепшене чтоб слушать что я говорю, а на мою просьбу уйти сказала НЕТ . Всю процедуру она отвечала на мое слово в ответ 10! Когда я попросила ее заклеить мою родинку сказала чтоб я не учила ее работать и после такого салона у меня панический страх процедуры эпиляции . Да я пришла туда по купону , и раз в месяц готова это потерпеть с предыдущем мастером , но теперь понятно что с таким отношением клиентов и не будет.И я сменю салон однозначно ! Это место где вам раздолбят психику нарушат все рамки личного пространства всем коллективом и посмотрят как на дурочку . Ну все началось со стажера которого попросили мне делать зону бикини . Я с первой встречи была в ахтунге , а последний косметолог согласилась что могут позвать еще и соседа на следующий раз. \nКонечно я хочу придти и видеть профессионализм в лице мастера а не стажера . Конечно я хочу чтобы мое тело осмотрели и закрыли родинки . Хочу чтобы такую интимную процедуру делал один человек который уже знает настройки моего тела и никто не захочет чтоб мастерица диктовала свои правила и морально вас пыталась унизить и говорить что все что мне не нравиться ее не волнует . Такового сервиса в этом месте НЕТ . И не будет",
+      "dateCreated": "2023-09-17T17:24:21.712297+07:00",
+      "dateEdited": null,
+      "isRated": true,
+      "likesCount": 1,
+      "commentsCount": 0,
+      "officialAnswer": null,
+      "emojis": [
+        {
+          "id": "green_heart",
+          "emoji": null,
+          "count": 1
+        }
+      ],
+      "trustFactors": null
+    }
+  ],
+  "mediaMeta": {
+    "objectId": "70000001039624768",
+    "fetchedCount": 82,
+    "totalCount": 82,
+    "albums": [
+      {
+        "id": "all",
+        "name": "Все",
+        "count": 82
+      },
+      {
+        "id": "video",
+        "name": "Видео",
+        "count": 7
+      },
+      {
+        "id": "outside",
+        "name": "Снаружи",
+        "count": 5
+      },
+      {
+        "id": "interior",
+        "name": "Внутри",
+        "count": 8
+      },
+      {
+        "id": "services",
+        "name": "Услуги",
+        "count": 58
+      },
+      {
+        "id": "inventory",
+        "name": "Инвентарь",
+        "count": 1
+      },
+      {
+        "id": "staff",
+        "name": "Сотрудники",
+        "count": 1
+      },
+      {
+        "id": "owner",
+        "name": "От владельца",
+        "count": 10
+      },
+      {
+        "id": "user",
+        "name": "От пользователей",
+        "count": 3
+      }
+    ],
+    "locale": "ru_RU"
+  },
+  "media": [
+    {
+      "id": "30258560252044111",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/ca629399-95f1-46c8-9bae-b1ca61231922.jpg",
+      "width": 884,
+      "height": 1105,
+      "owner": null,
+      "creationTime": "2025-08-04T18:09:08+00:00",
+      "modificationTime": "2025-08-04T21:14:52+00:00"
+    },
+    {
+      "id": "30258560311068159",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/3978e739-c739-4105-9e30-02aa77be5c0d.jpg",
+      "width": 1080,
+      "height": 1920,
+      "durationSec": 5,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/3978e739-c739-4105-9e30-02aa77be5c0d.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/04463aaa6ffcc1e707cc001d02267bfa6b42639a/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/04463aaa6ffcc1e707cc001d02267bfa6b42639a/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2026-04-30T08:32:25+00:00",
+      "modificationTime": "2026-04-30T08:50:16+00:00"
+    },
+    {
+      "id": "30258560251423464",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/cef80155-0cf1-43c4-8cb9-d4d962f6ea03.jpg",
+      "width": 734,
+      "height": 734,
+      "owner": null,
+      "creationTime": "2025-08-03T20:44:18+00:00",
+      "modificationTime": "2025-08-03T23:57:07+00:00"
+    },
+    {
+      "id": "30258560251327209",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/6f677344-0127-4ba3-9980-e976d794e67c.jpg",
+      "width": 736,
+      "height": 736,
+      "owner": null,
+      "creationTime": "2025-08-03T16:42:28+00:00",
+      "modificationTime": "2025-08-03T19:26:25+00:00"
+    },
+    {
+      "id": "30258560252653283",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/541619fe-191e-4213-9d40-ef58ef98648c.jpg",
+      "width": 920,
+      "height": 1150,
+      "owner": null,
+      "creationTime": "2025-08-05T14:44:06+00:00",
+      "modificationTime": "2025-08-05T16:16:57+00:00"
+    },
+    {
+      "id": "30258560250120077",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/a36e847e-73bb-4dd1-a7a8-2afbcc4fc6db.jpg",
+      "width": 986,
+      "height": 1024,
+      "owner": null,
+      "creationTime": "2025-08-01T19:10:06+00:00",
+      "modificationTime": "2025-08-01T20:35:23+00:00"
+    },
+    {
+      "id": "30258560252181036",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/photo-gallery/f104d132-ff94-4a56-855c-4f30af994467.jpg",
+      "width": 920,
+      "height": 1150,
+      "owner": null,
+      "creationTime": "2025-08-05T00:08:56+00:00",
+      "modificationTime": "2025-08-05T01:57:57+00:00"
+    },
+    {
+      "id": "30258560252241731",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/2dc3197b-1eb8-43b5-a42c-bd4afad692b5.jpg",
+      "width": 640,
+      "height": 640,
+      "owner": null,
+      "creationTime": "2025-08-05T02:16:50+00:00",
+      "modificationTime": "2025-08-05T04:05:34+00:00"
+    },
+    {
+      "id": "30258560250966843",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/d9f79b83-51f6-4f8b-b4d9-3ca5ef67acf6.jpg",
+      "width": 600,
+      "height": 600,
+      "owner": null,
+      "creationTime": "2025-08-03T04:21:52+00:00",
+      "modificationTime": "2025-08-03T05:35:52+00:00"
+    },
+    {
+      "id": "30258560308334830",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/photo-gallery/e6041412-5720-4e92-a9dd-c401b1aed613.jpg",
+      "width": 1440,
+      "height": 1632,
+      "owner": null,
+      "creationTime": "2026-04-20T22:04:26+00:00",
+      "modificationTime": "2026-04-20T22:07:47+00:00"
+    },
+    {
+      "id": "30258560250629920",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/photo-gallery/f78dfd5a-2478-4ffb-848e-39b76a637003.jpg",
+      "width": 736,
+      "height": 736,
+      "owner": null,
+      "creationTime": "2025-08-02T14:34:33+00:00",
+      "modificationTime": "2025-08-02T15:39:45+00:00"
+    },
+    {
+      "id": "30258560251549867",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/photo-gallery/e481ceff-a2d5-4548-a23e-61fcb9f85eef.jpg",
+      "width": 699,
+      "height": 699,
+      "owner": null,
+      "creationTime": "2025-08-04T01:27:56+00:00",
+      "modificationTime": "2025-08-04T05:36:54+00:00"
+    },
+    {
+      "id": "30258560054617696",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560054617696_dd6e.jpg",
+      "width": 4300,
+      "height": 2861,
+      "owner": null,
+      "creationTime": "2020-12-20T12:31:23+00:00",
+      "modificationTime": "2020-12-22T14:38:43+00:00"
+    },
+    {
+      "id": "30258560251880684",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/1fc731f7-4ed9-46f4-8cac-5f756d36127d.jpg",
+      "width": 640,
+      "height": 640,
+      "owner": null,
+      "creationTime": "2025-08-04T11:13:11+00:00",
+      "modificationTime": "2025-08-04T16:16:07+00:00"
+    },
+    {
+      "id": "30258560288585429",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/56595eda-f06b-4e6d-8f82-5cae227270f8.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 45,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/56595eda-f06b-4e6d-8f82-5cae227270f8.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/26fe00df82c7a4553955a1937717b30d64b4dad8/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/26fe00df82c7a4553955a1937717b30d64b4dad8/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2026-02-02T21:39:41+00:00",
+      "modificationTime": "2026-02-02T21:42:32+00:00"
+    },
+    {
+      "id": "30258560054617785",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560054617785_9097.jpg",
+      "width": 4300,
+      "height": 2861,
+      "owner": null,
+      "creationTime": "2020-12-20T12:34:48+00:00",
+      "modificationTime": "2020-12-22T14:40:38+00:00"
+    },
+    {
+      "id": "30258560308322828",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/photo-gallery/861f009c-9c28-4bac-8ce4-26ae525d764d.jpg",
+      "width": 1440,
+      "height": 1632,
+      "owner": null,
+      "creationTime": "2026-04-20T21:01:46+00:00",
+      "modificationTime": "2026-04-20T21:02:54+00:00"
+    },
+    {
+      "id": "30258560268696562",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/2b18577f-fd46-4fe2-9592-7563409ec5cd.jpg",
+      "width": 360,
+      "height": 640,
+      "durationSec": 9,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/2b18577f-fd46-4fe2-9592-7563409ec5cd.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/9464274a6d2b1056bbd465e44610761ac44321c9/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/9464274a6d2b1056bbd465e44610761ac44321c9/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-10-24T09:40:38+00:00",
+      "modificationTime": "2025-10-24T09:42:53+00:00"
+    },
+    {
+      "id": "30258560054617681",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/images/branch/0/30258560054617681_fc33.jpg",
+      "width": 4300,
+      "height": 2861,
+      "owner": null,
+      "creationTime": "2020-12-20T12:31:01+00:00",
+      "modificationTime": "2020-12-22T14:38:42+00:00"
+    },
+    {
+      "id": "30258560288531611",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/ff31381b-e275-47f6-9133-d48adacf190c.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 25,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/ff31381b-e275-47f6-9133-d48adacf190c.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/8baba8aa684304afa195c11003bb5c39409417ec/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/8baba8aa684304afa195c11003bb5c39409417ec/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2026-02-02T16:10:20+00:00",
+      "modificationTime": "2026-02-02T16:17:51+00:00"
+    },
+    {
+      "id": "30258560243678594",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/9cb67386-cfc2-46ff-9a91-8ee65329bd3c.jpg",
+      "width": 720,
+      "height": 1278,
+      "durationSec": 15,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/9cb67386-cfc2-46ff-9a91-8ee65329bd3c.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/80338a12-c2a5-4f54-bc68-149877758eb9-2gis-ugc-vod-transcoded/sdr-2-sdr/93cc6246d6d015348ccd9c8473e4b1adf8c5b1bb/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/80338a12-c2a5-4f54-bc68-149877758eb9-2gis-ugc-vod-transcoded/sdr-2-sdr/93cc6246d6d015348ccd9c8473e4b1adf8c5b1bb/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-07-02T20:47:30+00:00",
+      "modificationTime": "2025-07-02T20:49:47+00:00"
+    },
+    {
+      "id": "30258560317751132",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/photo-gallery/505e79e3-3552-4244-babf-5e0fbfe7fdeb.jpg",
+      "width": 1254,
+      "height": 1254,
+      "owner": null,
+      "creationTime": "2026-06-04T22:46:31+00:00",
+      "modificationTime": "2026-06-04T22:46:50+00:00"
+    },
+    {
+      "id": "30258560054617694",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/0/30258560054617694_9179.jpg",
+      "width": 4300,
+      "height": 2861,
+      "owner": null,
+      "creationTime": "2020-12-20T12:31:17+00:00",
+      "modificationTime": "2020-12-22T14:38:41+00:00"
+    },
+    {
+      "id": "30258560248933256",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/55ca8499-635a-42ce-b2b6-c468f0b62fbe.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2025-07-31T03:08:05+00:00",
+      "modificationTime": "2025-07-31T03:48:57+00:00"
+    },
+    {
+      "id": "30258560308311030",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/photo-gallery/b1765608-2baf-4790-a48e-5b09bcd5c5a7.jpg",
+      "width": 1440,
+      "height": 1632,
+      "owner": null,
+      "creationTime": "2026-04-20T20:04:26+00:00",
+      "modificationTime": "2026-04-20T20:05:35+00:00"
+    },
+    {
+      "id": "30258560252281100",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/f42e6c73-30ce-4bd8-8a5f-5c00f590655f.jpg",
+      "width": 1080,
+      "height": 1349,
+      "owner": null,
+      "creationTime": "2025-08-05T03:45:38+00:00",
+      "modificationTime": "2025-08-05T05:20:50+00:00"
+    },
+    {
+      "id": "30258560251784267",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/c4454551-4d4d-4669-b505-b184b5e071ed.jpg",
+      "width": 720,
+      "height": 720,
+      "owner": null,
+      "creationTime": "2025-08-04T08:39:04+00:00",
+      "modificationTime": "2025-08-04T13:30:22+00:00"
+    },
+    {
+      "id": "30258560308316397",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/c1759cf8-014f-477c-a362-3ad8c8263975.jpg",
+      "width": 1440,
+      "height": 1632,
+      "owner": null,
+      "creationTime": "2026-04-20T20:31:03+00:00",
+      "modificationTime": "2026-04-20T20:32:28+00:00"
+    },
+    {
+      "id": "30258560308311237",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/photo-gallery/fdccc810-44b1-4c94-9738-ab0898f045e8.jpg",
+      "width": 1440,
+      "height": 1632,
+      "owner": null,
+      "creationTime": "2026-04-20T20:04:26+00:00",
+      "modificationTime": "2026-04-20T20:06:21+00:00"
+    },
+    {
+      "id": "30258560317751104",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/photo-gallery/4547032e-9ca8-4d0b-9362-df16a14cb777.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-06-04T22:46:31+00:00",
+      "modificationTime": "2026-06-04T22:46:36+00:00"
+    },
+    {
+      "id": "30258560054617783",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560054617783_f51b.jpg",
+      "width": 4300,
+      "height": 2861,
+      "owner": null,
+      "creationTime": "2020-12-20T12:34:46+00:00",
+      "modificationTime": "2020-12-22T14:40:37+00:00"
+    },
+    {
+      "id": "30258560250644054",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/photo-gallery/5f05c481-6cd6-4a3d-aa2f-a515c5d2ce1a.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2025-08-02T15:10:54+00:00",
+      "modificationTime": "2025-08-02T16:10:49+00:00"
+    },
+    {
+      "id": "30258560251078848",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/photo-gallery/7dbf6681-7fca-4c5f-9ac2-0b5830401aa9.jpg",
+      "width": 720,
+      "height": 720,
+      "owner": null,
+      "creationTime": "2025-08-03T08:13:05+00:00",
+      "modificationTime": "2025-08-03T09:49:03+00:00"
+    },
+    {
+      "id": "30258560251125204",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/a08fd32d-d9e6-43be-88e0-9cb655dc5b7a.jpg",
+      "width": 735,
+      "height": 735,
+      "owner": null,
+      "creationTime": "2025-08-03T09:57:46+00:00",
+      "modificationTime": "2025-08-03T11:27:35+00:00"
+    },
+    {
+      "id": "30258560051670049",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/images/branch/0/30258560051670049_3588.jpg",
+      "width": 3024,
+      "height": 4032,
+      "owner": {
+        "id": "2247292",
+        "name": "Александр Штанг",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2020-09-18T14:55:13+00:00",
+      "modificationTime": "2020-09-19T10:46:35+00:00"
+    },
+    {
+      "id": "30258560249164625",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/d29db289-e06a-41d0-812e-7018778d1ebf.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2025-07-31T10:46:12+00:00",
+      "modificationTime": "2025-07-31T10:47:21+00:00"
+    },
+    {
+      "id": "30258560250849451",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/e5bd383b-7ee5-4e10-bf8f-77ace9e6669e.jpg",
+      "width": 1103,
+      "height": 1103,
+      "owner": null,
+      "creationTime": "2025-08-02T23:25:02+00:00",
+      "modificationTime": "2025-08-03T00:35:33+00:00"
+    },
+    {
+      "id": "30258560252385105",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/976006fa-2682-4d50-86da-e0bb73526c7b.jpg",
+      "width": 640,
+      "height": 720,
+      "owner": null,
+      "creationTime": "2025-08-05T06:27:34+00:00",
+      "modificationTime": "2025-08-05T08:26:41+00:00"
+    },
+    {
+      "id": "30258560054617784",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/images/branch/0/30258560054617784_8d49.jpg",
+      "width": 4300,
+      "height": 2861,
+      "owner": null,
+      "creationTime": "2020-12-20T12:34:46+00:00",
+      "modificationTime": "2020-12-22T14:40:36+00:00"
+    },
+    {
+      "id": "30258560051670043",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/images/branch/0/30258560051670043_6dea.jpg",
+      "width": 3024,
+      "height": 4032,
+      "owner": {
+        "id": "2247292",
+        "name": "Александр Штанг",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2020-09-18T14:55:02+00:00",
+      "modificationTime": "2020-09-19T10:46:32+00:00"
+    },
+    {
+      "id": "30258560323150437",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/1d59feb6-15a9-4433-be84-238bf23450af.jpg",
+      "width": 1280,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2026-07-02T15:45:20+00:00",
+      "modificationTime": "2026-07-02T15:45:43+00:00"
+    },
+    {
+      "id": "30258560249033287",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/4c360593-ae2f-4a03-a888-9cd5e0f7b73a.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2025-07-31T06:40:51+00:00",
+      "modificationTime": "2025-07-31T06:57:37+00:00"
+    },
+    {
+      "id": "30258560218982702",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/b0044a8a-e102-4883-80df-a53c33ec2b2d.jpg",
+      "width": 961,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2025-02-05T05:03:15+00:00",
+      "modificationTime": "2025-02-05T05:03:16+00:00"
+    },
+    {
+      "id": "30258560285201338",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/732fa38b-a55e-4b94-b517-d50dd23ddcae.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-01-22T10:46:06+00:00",
+      "modificationTime": "2026-01-22T18:54:17+00:00"
+    },
+    {
+      "id": "30258560251912151",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/6aa263be-195d-41e0-b3b0-f8f436c37a57.jpg",
+      "width": 720,
+      "height": 720,
+      "owner": null,
+      "creationTime": "2025-08-04T13:10:29+00:00",
+      "modificationTime": "2025-08-04T17:11:57+00:00"
+    },
+    {
+      "id": "30258560086547745",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/images/branch/0/30258560086547745_6d3b.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2022-04-12T13:34:10+00:00",
+      "modificationTime": "2022-08-25T21:41:58+00:00"
+    },
+    {
+      "id": "30258560312154526",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/c1490d00-19a7-4337-8b62-d3338271ffd2.jpg",
+      "width": 480,
+      "height": 848,
+      "durationSec": 25,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/c1490d00-19a7-4337-8b62-d3338271ffd2.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/bcef31d8eb3a2cf4bdc7e020a86463857325b82b/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/bcef31d8eb3a2cf4bdc7e020a86463857325b82b/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2026-05-06T08:53:09+00:00",
+      "modificationTime": "2026-05-06T09:08:02+00:00"
+    },
+    {
+      "id": "30258560054617698",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/images/branch/0/30258560054617698_8a73.jpg",
+      "width": 4300,
+      "height": 2861,
+      "owner": null,
+      "creationTime": "2020-12-20T12:31:25+00:00",
+      "modificationTime": "2020-12-22T14:38:44+00:00"
+    },
+    {
+      "id": "30258560285201553",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/5dc56aba-2e9d-4b7f-9021-31cc9747df9b.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-01-22T10:46:06+00:00",
+      "modificationTime": "2026-01-22T18:54:54+00:00"
+    },
+    {
+      "id": "30258560250075426",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/photo-gallery/28f70f5a-d5c4-4a6e-a159-d4b6326e6079.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2025-08-01T17:31:21+00:00",
+      "modificationTime": "2025-08-01T19:03:58+00:00"
+    },
+    {
+      "id": "30258560285684817",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/1868918e-00e1-43ea-b573-dba86722ec78.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-01-23T06:30:01+00:00",
+      "modificationTime": "2026-01-23T17:57:19+00:00"
+    },
+    {
+      "id": "30258560308305281",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/84292059-fd51-4ae0-864b-8f15997b17a5.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2026-04-20T19:37:06+00:00",
+      "modificationTime": "2026-04-20T19:38:48+00:00"
+    },
+    {
+      "id": "30258560083698786",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560083698786_2aea.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2022-04-15T15:36:15+00:00",
+      "modificationTime": "2022-08-17T19:53:41+00:00"
+    },
+    {
+      "id": "30258560256795869",
+      "mediaType": "video",
+      "url": "https://i1.photo.2gis.com/video-gallery/18b0e4fb-6b15-4119-b623-6cd9a7a22aaa.jpg",
+      "width": 720,
+      "height": 1280,
+      "durationSec": 5,
+      "processingStatus": "finished",
+      "coverUrl": "https://i1.photo.2gis.com/video-gallery/18b0e4fb-6b15-4119-b623-6cd9a7a22aaa.jpg",
+      "videoUrls": [
+        {
+          "type": "hls",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/46b37f7e83e50f3b2017b986a89943f8d0d13947/master.m3u8"
+        },
+        {
+          "type": "dash",
+          "url": "https://filekeeper-vod.2gis.com/26111965-aeba-4b14-bf72-9493fc57c9fb-2s-2gis-ugc-vod-transcoded/sdr-2-sdr/46b37f7e83e50f3b2017b986a89943f8d0d13947/index.mpd"
+        }
+      ],
+      "owner": null,
+      "creationTime": "2025-08-26T23:47:03+00:00",
+      "modificationTime": "2025-08-27T11:17:58+00:00"
+    },
+    {
+      "id": "30258560086880294",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/images/branch/0/30258560086880294_399f.jpg",
+      "width": 3292,
+      "height": 1864,
+      "owner": {
+        "id": "27974083",
+        "name": "Natalia deMoon",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2022-08-27T10:34:46+00:00",
+      "modificationTime": "2022-08-27T10:34:46+00:00"
+    },
+    {
+      "id": "30258560218982679",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/cd0469b1-fa04-497b-8cde-d42868a60a32.jpg",
+      "width": 1024,
+      "height": 683,
+      "owner": null,
+      "creationTime": "2025-02-05T05:03:07+00:00",
+      "modificationTime": "2025-02-05T05:03:08+00:00"
+    },
+    {
+      "id": "30258560250391168",
+      "mediaType": "photo",
+      "url": "https://i7.photo.2gis.com/photo-gallery/208e8cc8-4054-4fb6-9744-619c19425903.jpg",
+      "width": 736,
+      "height": 736,
+      "owner": null,
+      "creationTime": "2025-08-02T06:31:52+00:00",
+      "modificationTime": "2025-08-02T07:20:40+00:00"
+    },
+    {
+      "id": "30258560249930670",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/photo-gallery/f39ce709-981d-4afb-adf5-0d1460ac7bbc.jpg",
+      "width": 1280,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2025-08-01T12:19:09+00:00",
+      "modificationTime": "2025-08-01T14:14:20+00:00"
+    },
+    {
+      "id": "30258560251702321",
+      "mediaType": "photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/697d0bea-abd5-42c2-8f3b-b164b5ec0016.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2025-08-04T06:18:20+00:00",
+      "modificationTime": "2025-08-04T11:03:51+00:00"
+    },
+    {
+      "id": "30258560323150503",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/photo-gallery/6b9b155c-34ae-4ddf-9076-c7d67bcd65ab.jpg",
+      "width": 1280,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2026-07-02T15:45:20+00:00",
+      "modificationTime": "2026-07-02T15:45:54+00:00"
+    },
+    {
+      "id": "30258560250728028",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/b6e0303c-7712-43ca-9cef-51c2770f114f.jpg",
+      "width": 720,
+      "height": 720,
+      "owner": null,
+      "creationTime": "2025-08-02T18:13:34+00:00",
+      "modificationTime": "2025-08-02T19:22:06+00:00"
+    },
+    {
+      "id": "30258560054617782",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/0/30258560054617782_614c.jpg",
+      "width": 4300,
+      "height": 2861,
+      "owner": null,
+      "creationTime": "2020-12-20T12:34:44+00:00",
+      "modificationTime": "2020-12-22T14:40:33+00:00"
+    },
+    {
+      "id": "30258560248792646",
+      "mediaType": "photo",
+      "url": "https://i5.photo.2gis.com/photo-gallery/84f37ef7-32c3-4afe-9605-50bb1d3040ff.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2025-07-30T20:49:48+00:00",
+      "modificationTime": "2025-07-30T20:54:08+00:00"
+    },
+    {
+      "id": "30258560250144302",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/71d259a4-c543-4a5c-943a-39ce8bc908d9.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2025-08-01T20:13:54+00:00",
+      "modificationTime": "2025-08-01T21:26:57+00:00"
+    },
+    {
+      "id": "30258560249363097",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/photo-gallery/56162396-8f23-4ad6-9760-4a279f730a0d.jpg",
+      "width": 1280,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2025-07-31T16:29:42+00:00",
+      "modificationTime": "2025-07-31T16:32:27+00:00"
+    },
+    {
+      "id": "30258560323150452",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/33e89322-daef-4837-8cfe-799197b38d39.jpg",
+      "width": 1280,
+      "height": 1280,
+      "owner": null,
+      "creationTime": "2026-07-02T15:45:20+00:00",
+      "modificationTime": "2026-07-02T15:45:47+00:00"
+    },
+    {
+      "id": "30258560323150486",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/7482a6d6-f289-4d8b-a0c1-34558c6ec186.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-07-02T15:45:20+00:00",
+      "modificationTime": "2026-07-02T15:45:51+00:00"
+    },
+    {
+      "id": "30258560082139746",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/images/branch/0/30258560082139746_457a.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2022-04-06T13:16:08+00:00",
+      "modificationTime": "2022-08-16T18:35:25+00:00"
+    },
+    {
+      "id": "30258560285685375",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/photo-gallery/3ccccd39-4d00-4a8d-964f-e15fa31f2c34.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2026-01-23T06:29:59+00:00",
+      "modificationTime": "2026-01-23T17:58:20+00:00"
+    },
+    {
+      "id": "30258560285641261",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/photo-gallery/c7bac005-134c-4e61-a400-802648783261.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-01-23T04:28:01+00:00",
+      "modificationTime": "2026-01-23T16:32:55+00:00"
+    },
+    {
+      "id": "30258560083110828",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/images/branch/0/30258560083110828_dd1b.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2022-04-08T07:55:27+00:00",
+      "modificationTime": "2022-08-17T10:33:54+00:00"
+    },
+    {
+      "id": "30258560249120326",
+      "mediaType": "photo",
+      "url": "https://i3.photo.2gis.com/photo-gallery/33e95d24-b4c9-4b5a-af92-bf611ff71bb1.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2025-07-31T09:27:08+00:00",
+      "modificationTime": "2025-07-31T09:29:33+00:00"
+    },
+    {
+      "id": "30258560285672489",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/photo-gallery/eedb7cf3-c948-4ab0-a124-5190b7e9e092.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-01-23T06:29:59+00:00",
+      "modificationTime": "2026-01-23T17:33:59+00:00"
+    },
+    {
+      "id": "30258560323150465",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/808b8958-3629-467e-9a3d-baf54a45d307.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-07-02T15:45:20+00:00",
+      "modificationTime": "2026-07-02T15:45:48+00:00"
+    },
+    {
+      "id": "30258560285671566",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/photo-gallery/72562f59-f1b5-42fe-9be0-2722c9aa48b3.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2026-01-23T06:29:59+00:00",
+      "modificationTime": "2026-01-23T17:32:07+00:00"
+    },
+    {
+      "id": "30258560285749297",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/photo-gallery/e0225858-2835-4911-9291-2b9c18ee762e.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-01-23T06:30:01+00:00",
+      "modificationTime": "2026-01-23T20:04:30+00:00"
+    },
+    {
+      "id": "30258560285202066",
+      "mediaType": "photo",
+      "url": "https://i4.photo.2gis.com/photo-gallery/0c554662-0293-4bbd-a539-fe33fce497e0.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-01-22T10:46:06+00:00",
+      "modificationTime": "2026-01-22T18:56:21+00:00"
+    },
+    {
+      "id": "30258560248663462",
+      "mediaType": "photo",
+      "url": "https://i9.photo.2gis.com/photo-gallery/a90e1e6b-8f8e-48d6-9722-ece402782a70.jpg",
+      "width": 1080,
+      "height": 1080,
+      "owner": null,
+      "creationTime": "2025-07-30T16:09:41+00:00",
+      "modificationTime": "2025-07-30T16:11:07+00:00"
+    },
+    {
+      "id": "30258560250037349",
+      "mediaType": "photo",
+      "url": "https://i6.photo.2gis.com/photo-gallery/597b9790-d51f-4247-8a60-b1e935160c1c.jpg",
+      "width": 1440,
+      "height": 1440,
+      "owner": null,
+      "creationTime": "2025-08-01T16:04:39+00:00",
+      "modificationTime": "2025-08-01T17:45:16+00:00"
+    },
+    {
+      "id": "30258560285701145",
+      "mediaType": "photo",
+      "url": "https://i0.photo.2gis.com/photo-gallery/15350606-68f6-41ac-9e26-837907f6fe9b.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-01-23T04:28:01+00:00",
+      "modificationTime": "2026-01-23T18:27:46+00:00"
+    },
+    {
+      "id": "30258560285673696",
+      "mediaType": "photo",
+      "url": "https://i1.photo.2gis.com/photo-gallery/b0b5ee60-fb53-45d8-8150-3d418b454612.jpg",
+      "width": 1290,
+      "height": 1290,
+      "owner": null,
+      "creationTime": "2026-01-23T06:30:01+00:00",
+      "modificationTime": "2026-01-23T17:36:26+00:00"
+    },
+    {
+      "id": "30258560051851802",
+      "mediaType": "photo",
+      "url": "https://i2.photo.2gis.com/images/geo/0/30258560051851802_4c42.jpg",
+      "width": 4032,
+      "height": 3024,
+      "owner": {
+        "id": "25065992",
+        "name": "Виктор Евсеев",
+        "title": null,
+        "url": null,
+        "photoUrl": null,
+        "photoPreviewUrls": null,
+        "provider": null
+      },
+      "creationTime": "2020-09-23T13:50:41+00:00",
+      "modificationTime": "2020-09-27T23:33:36+00:00"
+    }
+  ],
+  "searchString": "лотос салон красоты",
+  "searchUrl": "https://2gis.ru/search/%D0%BB%D0%BE%D1%82%D0%BE%D1%81%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B/filters/bound?m=38.111959%2C55.569369%2F12",
+  "pageNumber": 1,
+  "scrapedAt": "2026-07-03T17:08:33.888Z"
+}]

@@ -1,0 +1,368 @@
+{
+ "placeId": "1349903126",
+ "title": "Лотос",
+ "shortTitle": "Лотос",
+ "categories": [
+  "Салон красоты",
+  "наращивание волос",
+  "обучение мастеров для салонов красоты"
+ ],
+ "address": "ул. Гагарина, 33А, Жуковский",
+ "fullAddress": "Московская область, Жуковский, улица Гагарина, 33А",
+ "state": "Жуковский",
+ "country": "Россия",
+ "addressComponents": {
+  "country": "Россия",
+  "area": "городской округ Жуковский",
+  "locality": "Жуковский",
+  "street": "улица Гагарина",
+  "house": "33А",
+  "postalCode": "140187"
+ },
+ "website": null,
+ "phone": "+7 (926) 416-00-36",
+ "phones": [
+  {
+   "number": "+7 (926) 416-00-36",
+   "unformatted": "+79264160036",
+   "type": "phone"
+  }
+ ],
+ "location": {
+  "lat": 55.605774,
+  "lng": 38.099141
+ },
+ "totalScore": 4.800000190734863,
+ "ratingCount": 66,
+ "reviewsCount": 50,
+ "neuroCrop": "Самый любимый, уютный салон красоты!",
+ "neurosummary": "Самый любимый, уютный салон красоты! Хожу только сюда много лет к любимому мастеру Елене. Если вам нужно бережное окрашивание, стрижка, прическа на праздник, депиляция и просто  уход за лицом, вам сюда",
+ "reviewAspects": [
+  {
+   "name": "Персонал",
+   "count": 45,
+   "positive": 45,
+   "neutral": 0,
+   "negative": 0
+  },
+  {
+   "name": "Компетентность",
+   "count": 25,
+   "positive": 25,
+   "neutral": 0,
+   "negative": 0
+  },
+  {
+   "name": "Атмосфера",
+   "count": 22,
+   "positive": 22,
+   "neutral": 0,
+   "negative": 0
+  },
+  {
+   "name": "Окрашивание волос",
+   "count": 16,
+   "positive": 16,
+   "neutral": 0,
+   "negative": 0
+  },
+  {
+   "name": "Стрижка",
+   "count": 16,
+   "positive": 16,
+   "neutral": 0,
+   "negative": 0
+  }
+ ],
+ "statusText": "Закрыто до завтра",
+ "isOpenNow": false,
+ "geoId": "20571",
+ "url": "https://yandex.ru/maps/org/1349903126/",
+ "logoUrl": "https://avatars.mds.yandex.net/get-altay/6548191/2a0000018c250fa58887f14d087a197dcbf9/M_height",
+ "panoramaPreviewUrl": "https://static-pano.maps.yandex.ru/v1/?panoid=1301011938_674788517_23_1708420408&size=500%2C240&azimuth=4.6&tilt=10&api_key=maps&signature=WehinsYxeTuX_FXr_OXuwEbSI-uSmoXvMRMh0ZB3CNk=",
+ "workingHoursText": "ежедневно, 10:00–20:00",
+ "workingHours": [
+  {
+   "day": "Mon",
+   "from": "10:00",
+   "to": "20:00"
+  },
+  {
+   "day": "Tue",
+   "from": "10:00",
+   "to": "20:00"
+  },
+  {
+   "day": "Wed",
+   "from": "10:00",
+   "to": "20:00"
+  },
+  {
+   "day": "Thu",
+   "from": "10:00",
+   "to": "20:00"
+  },
+  {
+   "day": "Fri",
+   "from": "10:00",
+   "to": "20:00"
+  },
+  {
+   "day": "Sat",
+   "from": "10:00",
+   "to": "20:00"
+  },
+  {
+   "day": "Sun",
+   "from": "10:00",
+   "to": "20:00"
+  }
+ ],
+ "features": [
+  "цена женской стрижки: 1000–1500 ₽",
+  "педикюр",
+  "косметологические услуги: уход за лицом",
+  "косметологические услуги: наращивание ресниц",
+  "косметологические услуги: пилинг",
+  "косметологические услуги: коррекция бровей",
+  "косметологические услуги: очищение кожи",
+  "маникюр",
+  "эпиляция/депиляция: лазерная эпиляция",
+  "эпиляция/депиляция: восковая депиляция",
+  "эпиляция/депиляция: мужская",
+  "парикмахерские услуги: окрашивание",
+  "парикмахерские услуги: тонирование",
+  "парикмахерские услуги: кератиновое выпрямление",
+  "парикмахерские услуги: химическая завивка",
+  "парикмахерские услуги: колорирование",
+  "парикмахерские услуги: вечерняя/свадебная укладка",
+  "парикмахерские услуги: наращивание волос",
+  "парикмахерские услуги: лечение волос",
+  "парикмахерские услуги: мелирование",
+  "парикмахерские услуги: укладка",
+  "парикмахерские услуги: стрижка",
+  "парикмахерские услуги: биоламинирование",
+  "парикмахерские услуги: био-завивка волос",
+  "парикмахерские услуги: биохимия",
+  "парикмахерские услуги: химическое распрямление",
+  "парикмахерские услуги: экранирование",
+  "парикмахерские услуги: брондирование",
+  "парикмахерские услуги: омбре",
+  "парикмахерские услуги: нанопластика",
+  "парикмахерские услуги: уходовые процедуры для волос",
+  "парикмахерские услуги: кератиновое восстановление волос",
+  "парикмахерские услуги: осветление ",
+  "парикмахерские услуги: прикорневой объем",
+  "доступность входа на инвалидной коляске: недоступно",
+  "для ногтей: женский педикюр",
+  "для ногтей: женский маникюр",
+  "способ оплаты: наличными",
+  "способ оплаты: оплата картой",
+  "способ оплаты: электронными деньгами",
+  "Оплата картой",
+  "акции: скидки",
+  "акции: спецпредложения",
+  "акции: подарки",
+  "подарочный сертификат",
+  "моментальный загар",
+  "услуги салона: массаж",
+  "услуги салона: косметология",
+  "услуги салона: женские стрижки",
+  "услуги салона: маникюр",
+  "услуги салона: пилинг",
+  "услуги салона: уход за телом",
+  "услуги салона: эпиляция",
+  "услуги салона: лечение волос и кожи головы",
+  "услуги салона: уход за лицом",
+  "услуги салона: наращивание волос",
+  "услуги салона: наращивание ресниц",
+  "услуги салона: наращивание ногтей",
+  "услуги салона: педикюр",
+  "услуги салона: ламинирование ресниц",
+  "услуги салона: перманентный макияж",
+  "услуги салона: ботокс волос",
+  "обучение: визажистов",
+  "обучение: бровистов",
+  "обучение: маникюру",
+  "обучение: наращиванию ресниц",
+  "обучение: шугарингу",
+  "обучение: эпиляции",
+  "обучение: перманентному макияжу",
+  "обучение: напылению",
+  "обучение: парикмахеров",
+  "для фигуры: пилинг",
+  "для фигуры: обёртывание",
+  "классический женский маникюр с покрытием: от 1100 ₽"
+ ],
+ "socialLinks": [
+  {
+   "type": "telegram",
+   "url": "https://t.me/lotus_zhuk"
+  },
+  {
+   "type": "whatsapp",
+   "url": "https://wa.me/89264160036?text=%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B8%D0%B7+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81+%D0%9A%D0%B0%D1%80%D1%82%0A%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE+%D0%B2%D0%B0%D1%88%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"
+  }
+ ],
+ "sources": [
+  {
+   "id": "yandex",
+   "name": "Яндекс",
+   "href": "https://ya.ru/"
+  }
+ ],
+ "stopDetails": [
+  {
+   "name": "Магазин Дикси",
+   "distance": "19 м"
+  },
+  {
+   "name": "Улица Гагарина",
+   "distance": "360 м"
+  },
+  {
+   "name": "Улица Дугина",
+   "distance": "410 м"
+  },
+  {
+   "name": "Молодёжная улица",
+   "distance": "670 м"
+  },
+  {
+   "name": "Улица Мичурина",
+   "distance": "780 м"
+  }
+ ],
+ "photosCount": 43,
+ "menuTop": [
+  {
+   "category": "popular",
+   "items": [
+    {
+     "title": "Перманентный макияж губ",
+     "description": "Перманентный макияж губ – это возможность сохранять свою привлекательность вне зависимости от обстоятельств и времени суток. С помощью косметологической микропигментации можно забыть об утреннем нанесении декоративной косметики, ее обновлении и ко...",
+     "photoUrl": "https://avatars.mds.yandex.net/get-sprav-products/12411943/2a0000018c665e88f3627be4106eda721b9f/{size}",
+     "priceText": "7500",
+     "priceValue": 7500,
+     "currency": "₽",
+     "volume": "1 шт."
+    },
+    {
+     "title": "Ламинирование ресниц",
+     "description": "Ламинирование ресниц – это ухаживающая процедура, предполагающая глубокое питание натуральных ресничек специальными составами с высоким содержанием витаминов и аминокислот. Впоследствии волоски визуально удлиняются, становятся шелковистыми и пышны...",
+     "photoUrl": "https://avatars.mds.yandex.net/get-sprav-products/12411943/2a0000018c24fbc70d16159963e22582a704/{size}",
+     "priceText": "2500",
+     "priceValue": 2500,
+     "currency": "₽",
+     "volume": "1 шт."
+    },
+    {
+     "title": "Ламинирование бровей",
+     "description": "Ламинирование бровей позволяет визуально улучшить их внешний вид, сформировать красивый изгиб",
+     "photoUrl": "https://avatars.mds.yandex.net/get-sprav-products/12412149/2a0000018c66596547fe5d425a47a1825f80/{size}",
+     "priceText": "2000",
+     "priceValue": 2000,
+     "currency": "₽",
+     "volume": "1 шт."
+    },
+    {
+     "title": "Архитектура бровей",
+     "description": "Архитектура бровей - это процесс создания формы (толщина, длина) брови по принципам геометрии, при помощи вспомогательных продуктов",
+     "photoUrl": "https://avatars.mds.yandex.net/get-sprav-products/12412149/2a0000018c665b063cb663f2de76cdba58f0/{size}",
+     "priceText": "1100",
+     "priceValue": 1100,
+     "currency": "₽",
+     "volume": "1 шт."
+    }
+   ]
+  }
+ ],
+ "panorama": {
+  "id": "1301011938_674788517_23_1708420408",
+  "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1301011938_674788517_23_1708420408&size=500%2C240&azimuth=4.6&tilt=10&api_key=maps&signature=WehinsYxeTuX_FXr_OXuwEbSI-uSmoXvMRMh0ZB3CNk=",
+  "coordinates": {
+   "lat": 55.6056415531,
+   "lng": 38.0991219919
+  }
+ },
+ "bounds": [
+  {
+   "lat": 55.603461,
+   "lng": 38.094991
+  },
+  {
+   "lat": 55.608109,
+   "lng": 38.103202
+  }
+ ],
+ "region": {
+  "name": "Жуковский",
+  "bounds": [
+   {
+    "lat": 55.552669445644135,
+    "lng": 38.033591
+   },
+   {
+    "lat": 55.64222944564413,
+    "lng": 38.206013
+   }
+  ]
+ },
+ "area": "городской округ Жуковский",
+ "videos": [
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/15430580/2a0000019a1fe60cd22c310b5af88e1a051d/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvvcf5v77dkegv6fa6"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6490485/2a0000018c24d1a4f2bde04866daa82c5663/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvf7v6gxly2ltzsmo7"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6920051/2a0000018c4ed4650042f3120b2c0f338012/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvdx2m4dtw6aylglza"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6871497/2a0000018c4ebdcc2e59850ad5111b479bb5/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvexzypep63rqhv5ud"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6216463/2a0000018c257d348e9d1ea6a669e766df15/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvkj3cha2weq6tbsr4"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6490485/2a0000018c24e0230f8f7e12fbf7ff21b24a/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvapywn46nuna7jyj2"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6332708/2a0000018c24dfd6827cdb5b96f21341117d/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplv4u2ca63q2xus422t"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6456575/2a0000018c24e059818c8078ce60900bf3c1/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvuyvsxfqnnkgfixiu"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6213324/2a0000018c24da125c721a8c4d9f1a7726d1/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvi75v7vk4tcbswuhb"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6471303/2a0000018c24d8753d443114ee698159d4b5/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplv7ah5ohq2diiz65yk"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6471303/2a0000018c24d8867a1652469507125b4a82/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvws6hx76gety2jnds"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6490485/2a0000018c24d7b9b325f6030fc02e8baacf/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplve475vixjem2yfjw7"
+  },
+  {
+   "thumbnail": "https://avatars.mds.yandex.net/get-vh/6332708/2a0000018c24d70ee8b3789f6df3577b351f/orig",
+   "url": "https://runtime.strm.yandex.ru/player/video/vplvmf7afqxukcq4hztx"
+  }
+ ],
+ "query": "лотос салон красоты Жуковский",
+ "scrapedAt": "2026-07-03T17:08:49.240Z"
+}
